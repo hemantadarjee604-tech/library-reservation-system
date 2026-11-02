@@ -1,0 +1,8 @@
+<%- include('partials/header', {title}) %>
+<section class="hero"><div><p class="eyebrow">YOUR CAMPUS LIBRARY</p><h1>Find your next good read.</h1><p>Search the catalogue, reserve a copy, and collect it from the library when it is ready.</p><a class="button" href="/books">Browse all books</a></div><div class="hero-art">📚</div></section>
+<div class="section-heading"><div><h2>Featured catalogue</h2><p class="muted">Recently added titles</p></div><a href="/books">View all →</a></div>
+<div class="book-grid">
+<% if (!books.length) { %><div class="empty-state">No books have been added yet. The librarian can add books after logging in.</div><% } %>
+<% books.forEach(book => { %><article class="book-card"><div class="book-cover">📖</div><div class="book-info"><span class="tag"><%= book.category || 'General' %></span><h3><a href="/books/<%= book.id %>"><%= book.title %></a></h3><p class="muted">by <%= book.author %></p><p class="availability"><%= book.available_copies %> available</p><a class="text-link" href="/books/<%= book.id %>">Book details →</a></div></article><% }) %>
+</div>
+<%- include('partials/footer') %>

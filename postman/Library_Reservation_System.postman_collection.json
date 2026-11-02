@@ -1,0 +1,34 @@
+{
+  "info": {
+    "name": "Library Book Reservation System API",
+    "description": "Use the same Postman cookie jar after logging in. Start with Health, Login as seeded admin, then try Books, Reservations, Collection and Returns.",
+    "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+  },
+  "variable": [
+    { "key": "baseUrl", "value": "http://localhost:3000" },
+    { "key": "bookId", "value": "1" },
+    { "key": "reservationId", "value": "1" },
+    { "key": "loanId", "value": "1" }
+  ],
+  "item": [
+    { "name": "Health check", "request": { "method": "GET", "url": "{{baseUrl}}/health" } },
+    { "name": "Register student", "request": { "method": "POST", "header": [{ "key": "Content-Type", "value": "application/json" }], "body": { "mode": "raw", "raw": "{\n  \"full_name\": \"Test Student\",\n  \"email\": \"student1@example.com\",\n  \"student_id\": \"TEST001\",\n  \"password\": \"StudentPass123\"\n}" }, "url": "{{baseUrl}}/api/auth/register" } },
+    { "name": "Login admin", "request": { "method": "POST", "header": [{ "key": "Content-Type", "value": "application/json" }], "body": { "mode": "raw", "raw": "{\n  \"email\": \"admin@library.local\",\n  \"password\": \"ChangeMe123!\"\n}" }, "url": "{{baseUrl}}/api/auth/login" } },
+    { "name": "Login student", "request": { "method": "POST", "header": [{ "key": "Content-Type", "value": "application/json" }], "body": { "mode": "raw", "raw": "{\n  \"email\": \"student1@example.com\",\n  \"password\": \"StudentPass123\"\n}" }, "url": "{{baseUrl}}/api/auth/login" } },
+    { "name": "Current user", "request": { "method": "GET", "url": "{{baseUrl}}/api/auth/me" } },
+    { "name": "List books", "request": { "method": "GET", "url": "{{baseUrl}}/api/books" } },
+    { "name": "Search books", "request": { "method": "GET", "url": "{{baseUrl}}/api/books?q=math" } },
+    { "name": "Book details", "request": { "method": "GET", "url": "{{baseUrl}}/api/books/{{bookId}}" } },
+    { "name": "Add book (admin/librarian)", "request": { "method": "POST", "header": [{ "key": "Content-Type", "value": "application/json" }], "body": { "mode": "raw", "raw": "{\n  \"isbn\": \"9780000000001\",\n  \"title\": \"Introduction to Data Science\",\n  \"author\": \"A. Author\",\n  \"publisher\": \"Campus Press\",\n  \"publication_year\": 2024,\n  \"description\": \"An introductory data science book.\",\n  \"category_id\": 1,\n  \"shelf_location\": \"A-01\",\n  \"copy_count\": 3\n}" }, "url": "{{baseUrl}}/api/books" } },
+    { "name": "List categories", "request": { "method": "GET", "url": "{{baseUrl}}/api/categories" } },
+    { "name": "Create category (admin/librarian)", "request": { "method": "POST", "header": [{ "key": "Content-Type", "value": "application/json" }], "body": { "mode": "raw", "raw": "{\n  \"name\": \"Science\",\n  \"description\": \"Science books\"\n}" }, "url": "{{baseUrl}}/api/categories" } },
+    { "name": "Reserve a book (student login)", "request": { "method": "POST", "url": "{{baseUrl}}/api/books/{{bookId}}/reservations" } },
+    { "name": "List reservations", "request": { "method": "GET", "url": "{{baseUrl}}/api/reservations" } },
+    { "name": "Cancel reservation", "request": { "method": "POST", "url": "{{baseUrl}}/api/reservations/{{reservationId}}/cancel" } },
+    { "name": "Confirm collection (staff login)", "request": { "method": "POST", "url": "{{baseUrl}}/api/reservations/{{reservationId}}/collect" } },
+    { "name": "List loans", "request": { "method": "GET", "url": "{{baseUrl}}/api/loans" } },
+    { "name": "Return book (staff login)", "request": { "method": "POST", "url": "{{baseUrl}}/api/loans/{{loanId}}/return" } },
+    { "name": "Report summary (staff login)", "request": { "method": "GET", "url": "{{baseUrl}}/api/reports/summary" } },
+    { "name": "List users (admin login)", "request": { "method": "GET", "url": "{{baseUrl}}/api/users" } }
+  ]
+}

@@ -1,0 +1,3 @@
+<%- include('partials/header', {title}) %>
+<div class="auth-wrap"><section class="panel auth-panel"><p class="eyebrow">WELCOME BACK</p><h1>Log in</h1><p class="muted">Access your reservations and borrowing history.</p><form method="post" action="/login" class="form-stack"><label>Email address<input type="email" name="email" autocomplete="email" required></label><label>Password<input type="password" name="password" autocomplete="current-password" required></label><button class="button full" type="submit">Log in</button></form><p class="muted center">New to the library? <a href="/register">Create an account</a></p></section></div>
+<%- include('partials/footer') %>

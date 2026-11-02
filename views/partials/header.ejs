@@ -1,0 +1,22 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+  <title><%= title || 'Library System' %> | Library</title>
+  <link rel="stylesheet" href="/css/style.css">
+</head>
+<body>
+<header class="topbar">
+  <a class="brand" href="/">📚 LibraryDesk</a>
+  <nav>
+    <a href="/books">Catalogue</a>
+    <% if (currentUser) { %>
+      <a href="/dashboard">Dashboard</a><a href="/reservations">Reservations</a><a href="/loans">My Loans</a>
+      <% if (['admin','librarian'].includes(currentUser.role)) { %><a href="/reports">Reports</a><a href="/categories">Categories</a><% } %>
+      <% if (currentUser.role === 'admin') { %><a href="/users">Users</a><% } %>
+      <form class="inline-form" method="post" action="/logout"><button class="nav-button" type="submit">Log out</button></form>
+    <% } else { %><a href="/login">Login</a><a class="nav-cta" href="/register">Create account</a><% } %>
+  </nav>
+</header>
+<main class="container">
+  <% if (flash) { %><div class="alert <%= flash.type === 'error' ? 'alert-error' : 'alert-success' %>"><%= flash.message %></div><% } %>
