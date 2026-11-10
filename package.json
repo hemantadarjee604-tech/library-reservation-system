@@ -9,6 +9,7 @@
     "dev": "nodemon app.js",
     "db:init": "node scripts/init-db.js",
     "db:seed": "node scripts/seed.js",
+    "books:import": "node scripts/importBooks.js",
     "test": "node --test"
   },
   "engines": {
@@ -17,8 +18,9 @@
   "dependencies": {
     "bcryptjs": "^2.4.3",
     "connect-pg-simple": "^10.0.0",
+    "csv-parse": "^7.0.3",
     "dotenv": "^16.4.7",
-    "ejs": "^3.1.10",
+    "ejs": "^7.0.2",
     "express": "^4.21.2",
     "express-rate-limit": "^7.5.0",
     "express-session": "^1.18.1",

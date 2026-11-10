@@ -1,0 +1,3502 @@
+[
+  {
+    "title": "Pride and Prejudice",
+    "author": "Jane Austen",
+    "publisher": null,
+    "publication_year": 1813,
+    "description": "A novel exploring relationships, manners and society.",
+    "isbn": null,
+    "category": "Literature",
+    "shelf_location": "L-01"
+  },
+  {
+    "title": "Frankenstein",
+    "author": "Mary Shelley",
+    "publisher": null,
+    "publication_year": 1818,
+    "description": "A classic novel exploring science, responsibility and humanity.",
+    "isbn": null,
+    "category": "Literature",
+    "shelf_location": "L-02"
+  },
+  {
+    "title": "The Adventures of Sherlock Holmes",
+    "author": "Arthur Conan Doyle",
+    "publisher": null,
+    "publication_year": 1892,
+    "description": "A collection of detective stories featuring Sherlock Holmes.",
+    "isbn": null,
+    "category": "Literature",
+    "shelf_location": "L-03"
+  },
+  {
+    "title": "The Origin of Species",
+    "author": "Charles Darwin",
+    "publisher": null,
+    "publication_year": 1859,
+    "description": "A scientific work explaining evolution by natural selection.",
+    "isbn": null,
+    "category": "Science and Technology",
+    "shelf_location": "S-01"
+  },
+  {
+    "title": "The Republic",
+    "author": "Plato",
+    "publisher": null,
+    "publication_year": null,
+    "description": "A philosophical work discussing justice and the ideal state.",
+    "isbn": null,
+    "category": "Philosophy",
+    "shelf_location": "P-01"
+  },
+  {
+    "title": "The Declaration of Independence of the United States of America",
+    "author": "Jefferson, Thomas, 1743-1826",
+    "publisher": null,
+    "publication_year": null,
+    "description": "English-language public-domain catalogue record from Project Gutenberg. Catalogue ID: 1.",
+    "isbn": null,
+    "category": "History",
+    "shelf_location": null
+  },
+  {
+    "title": "The United States Bill of Rights\r\nThe Ten Original Amendments to the Constitution of the United States",
+    "author": "United States",
+    "publisher": null,
+    "publication_year": null,
+    "description": "English-language public-domain catalogue record from Project Gutenberg. Catalogue ID: 2.",
+    "isbn": null,
+    "category": "Literature",
+    "shelf_location": null
+  },
+  {
+    "title": "John F. Kennedy's Inaugural Address",
+    "author": "Kennedy, John F. (John Fitzgerald), 1917-1963",
+    "publisher": null,
+    "publication_year": null,
+    "description": "English-language public-domain catalogue record from Project Gutenberg. Catalogue ID: 3.",
+    "isbn": null,
+    "category": "Literature",
+    "shelf_location": null
+  },
+  {
+    "title": "Lincoln's Gettysburg Address\r\nGiven November 19, 1863 on the battlefield near Gettysburg, Pennsylvania, USA",
+    "author": "Lincoln, Abraham, 1809-1865",
+    "publisher": null,
+    "publication_year": null,
+    "description": "English-language public-domain catalogue record from Project Gutenberg. Catalogue ID: 4.",
+    "isbn": null,
+    "category": "Literature",
+    "shelf_location": null
+  },
+  {
+    "title": "The United States Constitution",
+    "author": "United States",
+    "publisher": null,
+    "publication_year": null,
+    "description": "English-language public-domain catalogue record from Project Gutenberg. Catalogue ID: 5.",
+    "isbn": null,
+    "category": "Literature",
+    "shelf_location": null
+  },
+  {
+    "title": "Give Me Liberty or Give Me Death",
+    "author": "Henry, Patrick, 1736-1799",
+    "publisher": null,
+    "publication_year": null,
+    "description": "English-language public-domain catalogue record from Project Gutenberg. Catalogue ID: 6.",
+    "isbn": null,
+    "category": "Literature",
+    "shelf_location": null
+  },
+  {
+    "title": "Abraham Lincoln's Second Inaugural Address",
+    "author": "Lincoln, Abraham, 1809-1865",
+    "publisher": null,
+    "publication_year": null,
+    "description": "English-language public-domain catalogue record from Project Gutenberg. Catalogue ID: 8.",
+    "isbn": null,
+    "category": "Literature",
+    "shelf_location": null
+  },
+  {
+    "title": "Abraham Lincoln's First Inaugural Address",
+    "author": "Lincoln, Abraham, 1809-1865",
+    "publisher": null,
+    "publication_year": null,
+    "description": "English-language public-domain catalogue record from Project Gutenberg. Catalogue ID: 9.",
+    "isbn": null,
+    "category": "Literature",
+    "shelf_location": null
+  },
+  {
+    "title": "Alice's Adventures in Wonderland",
+    "author": "Carroll, Lewis, 1832-1898",
+    "publisher": null,
+    "publication_year": null,
+    "description": "English-language public-domain catalogue record from Project Gutenberg. Catalogue ID: 11.",
+    "isbn": null,
+    "category": "Fiction",
+    "shelf_location": null
+  },
+  {
+    "title": "Through the Looking-Glass",
+    "author": "Carroll, Lewis, 1832-1898",
+    "publisher": null,
+    "publication_year": null,
+    "description": "English-language public-domain catalogue record from Project Gutenberg. Catalogue ID: 12.",
+    "isbn": null,
+    "category": "Fiction",
+    "shelf_location": null
+  },
+  {
+    "title": "The Hunting of the Snark: An Agony in Eight Fits",
+    "author": "Carroll, Lewis, 1832-1898",
+    "publisher": null,
+    "publication_year": null,
+    "description": "English-language public-domain catalogue record from Project Gutenberg. Catalogue ID: 13.",
+    "isbn": null,
+    "category": "Literature",
+    "shelf_location": null
+  },
+  {
+    "title": "The 1990 CIA World Factbook",
+    "author": "United States. Central Intelligence Agency",
+    "publisher": null,
+    "publication_year": null,
+    "description": "English-language public-domain catalogue record from Project Gutenberg. Catalogue ID: 14.",
+    "isbn": null,
+    "category": "Science and Technology",
+    "shelf_location": null
+  },
+  {
+    "title": "Moby-Dick; or, The Whale",
+    "author": "Melville, Herman, 1819-1891",
+    "publisher": null,
+    "publication_year": null,
+    "description": "English-language public-domain catalogue record from Project Gutenberg. Catalogue ID: 15.",
+    "isbn": null,
+    "category": "Fiction",
+    "shelf_location": null
+  },
+  {
+    "title": "Peter Pan",
+    "author": "Barrie, J. M. (James Matthew), 1860-1937",
+    "publisher": null,
+    "publication_year": null,
+    "description": "English-language public-domain catalogue record from Project Gutenberg. Catalogue ID: 16.",
+    "isbn": null,
+    "category": "Fiction",
+    "shelf_location": null
+  },
+  {
+    "title": "The Book of Mormon",
+    "author": "Smith, Joseph, Jr., 1805-1844; Church of Jesus Christ of Latter-day Saints",
+    "publisher": null,
+    "publication_year": null,
+    "description": "English-language public-domain catalogue record from Project Gutenberg. Catalogue ID: 17.",
+    "isbn": null,
+    "category": "Literature",
+    "shelf_location": null
+  },
+  {
+    "title": "The Federalist Papers",
+    "author": "Hamilton, Alexander, 1757-1804; Jay, John, 1745-1829; Madison, James, 1751-1836",
+    "publisher": null,
+    "publication_year": null,
+    "description": "English-language public-domain catalogue record from Project Gutenberg. Catalogue ID: 18.",
+    "isbn": null,
+    "category": "History",
+    "shelf_location": null
+  },
+  {
+    "title": "The Song of Hiawatha",
+    "author": "Longfellow, Henry Wadsworth, 1807-1882; Morris, Woodrow W. [Editor]",
+    "publisher": null,
+    "publication_year": null,
+    "description": "English-language public-domain catalogue record from Project Gutenberg. Catalogue ID: 19.",
+    "isbn": null,
+    "category": "Literature",
+    "shelf_location": null
+  },
+  {
+    "title": "Paradise Lost",
+    "author": "Milton, John, 1608-1674",
+    "publisher": null,
+    "publication_year": null,
+    "description": "English-language public-domain catalogue record from Project Gutenberg. Catalogue ID: 20.",
+    "isbn": null,
+    "category": "History",
+    "shelf_location": null
+  },
+  {
+    "title": "Three hundred Aesop’s fables\r\nTranslated by George Fyler Townsend",
+    "author": "Aesop, 621? BCE-565? BCE; Townsend, George Fyler, 1814-1900 [Translator]",
+    "publisher": null,
+    "publication_year": null,
+    "description": "English-language public-domain catalogue record from Project Gutenberg. Catalogue ID: 21.",
+    "isbn": null,
+    "category": "Literature",
+    "shelf_location": null
+  },
+  {
+    "title": "Roget's Thesaurus",
+    "author": "Roget, Peter Mark, 1779-1869",
+    "publisher": null,
+    "publication_year": null,
+    "description": "English-language public-domain catalogue record from Project Gutenberg. Catalogue ID: 22.",
+    "isbn": null,
+    "category": "Literature",
+    "shelf_location": null
+  },
+  {
+    "title": "Narrative of the Life of Frederick Douglass, an American Slave",
+    "author": "Douglass, Frederick, 1818-1895",
+    "publisher": null,
+    "publication_year": null,
+    "description": "English-language public-domain catalogue record from Project Gutenberg. Catalogue ID: 23.",
+    "isbn": null,
+    "category": "Biography and Autobiography",
+    "shelf_location": null
+  },
+  {
+    "title": "O Pioneers!",
+    "author": "Cather, Willa, 1873-1947",
+    "publisher": null,
+    "publication_year": null,
+    "description": "English-language public-domain catalogue record from Project Gutenberg. Catalogue ID: 24.",
+    "isbn": null,
+    "category": "History",
+    "shelf_location": null
+  },
+  {
+    "title": "The 1991 CIA World Factbook",
+    "author": "United States. Central Intelligence Agency",
+    "publisher": null,
+    "publication_year": null,
+    "description": "English-language public-domain catalogue record from Project Gutenberg. Catalogue ID: 25.",
+    "isbn": null,
+    "category": "Science and Technology",
+    "shelf_location": null
+  },
+  {
+    "title": "Far from the Madding Crowd",
+    "author": "Hardy, Thomas, 1840-1928",
+    "publisher": null,
+    "publication_year": null,
+    "description": "English-language public-domain catalogue record from Project Gutenberg. Catalogue ID: 27.",
+    "isbn": null,
+    "category": "Fiction",
+    "shelf_location": null
+  },
+  {
+    "title": "The Fables of Aesop\r\nSelected, Told Anew, and Their History Traced",
+    "author": "Aesop, 621? BCE-565? BCE; Jacobs, Joseph, 1854-1916 [Editor]",
+    "publisher": null,
+    "publication_year": null,
+    "description": "English-language public-domain catalogue record from Project Gutenberg. Catalogue ID: 28.",
+    "isbn": null,
+    "category": "Literature",
+    "shelf_location": null
+  },
+  {
+    "title": "The 1990 United States Census [incomplete]",
+    "author": "United States. Bureau of the Census",
+    "publisher": null,
+    "publication_year": null,
+    "description": "English-language public-domain catalogue record from Project Gutenberg. Catalogue ID: 29.",
+    "isbn": null,
+    "category": "Literature",
+    "shelf_location": null
+  },
+  {
+    "title": "Plays of Sophocles: Oedipus the King; Oedipus at Colonus; Antigone",
+    "author": "Sophocles, 496? BCE-407 BCE; Storr, Francis, 1839-1919 [Translator]",
+    "publisher": null,
+    "publication_year": null,
+    "description": "English-language public-domain catalogue record from Project Gutenberg. Catalogue ID: 31.",
+    "isbn": null,
+    "category": "Literature",
+    "shelf_location": null
+  },
+  {
+    "title": "Herland",
+    "author": "Gilman, Charlotte Perkins, 1860-1935",
+    "publisher": null,
+    "publication_year": null,
+    "description": "English-language public-domain catalogue record from Project Gutenberg. Catalogue ID: 32.",
+    "isbn": null,
+    "category": "Fiction",
+    "shelf_location": null
+  },
+  {
+    "title": "The Scarlet Letter",
+    "author": "Hawthorne, Nathaniel, 1804-1864",
+    "publisher": null,
+    "publication_year": null,
+    "description": "English-language public-domain catalogue record from Project Gutenberg. Catalogue ID: 33.",
+    "isbn": null,
+    "category": "History",
+    "shelf_location": null
+  },
+  {
+    "title": "Zen and the Art of the Internet",
+    "author": "Kehoe, Brendan P., 1970-2011",
+    "publisher": null,
+    "publication_year": null,
+    "description": "English-language public-domain catalogue record from Project Gutenberg. Catalogue ID: 34.",
+    "isbn": null,
+    "category": "Computer Science",
+    "shelf_location": null
+  },
+  {
+    "title": "The Time Machine",
+    "author": "Wells, H. G. (Herbert George), 1866-1946",
+    "publisher": null,
+    "publication_year": null,
+    "description": "English-language public-domain catalogue record from Project Gutenberg. Catalogue ID: 35.",
+    "isbn": null,
+    "category": "Science and Technology",
+    "shelf_location": null
+  },
+  {
+    "title": "The war of the worlds",
+    "author": "Wells, H. G. (Herbert George), 1866-1946",
+    "publisher": null,
+    "publication_year": null,
+    "description": "English-language public-domain catalogue record from Project Gutenberg. Catalogue ID: 36.",
+    "isbn": null,
+    "category": "Science and Technology",
+    "shelf_location": null
+  },
+  {
+    "title": "The 1990 United States Census",
+    "author": "United States. Bureau of the Census",
+    "publisher": null,
+    "publication_year": null,
+    "description": "English-language public-domain catalogue record from Project Gutenberg. Catalogue ID: 37.",
+    "isbn": null,
+    "category": "Literature",
+    "shelf_location": null
+  },
+  {
+    "title": "The Jargon File, Version 2.9.10, 01 Jul 1992",
+    "author": "Raymond, Eric S., 1957- [Editor]; Steele, Guy L., 1954- [Editor]",
+    "publisher": null,
+    "publication_year": null,
+    "description": "English-language public-domain catalogue record from Project Gutenberg. Catalogue ID: 38.",
+    "isbn": null,
+    "category": "Computer Science",
+    "shelf_location": null
+  },
+  {
+    "title": "Hitchhiker's Guide to the Internet",
+    "author": "Krol, Ed, 1951-",
+    "publisher": null,
+    "publication_year": null,
+    "description": "English-language public-domain catalogue record from Project Gutenberg. Catalogue ID: 39.",
+    "isbn": null,
+    "category": "Computer Science",
+    "shelf_location": null
+  },
+  {
+    "title": "NorthWestNet User Services Internet Resource Guide (NUSIRG)",
+    "author": "Kochmer, Jonathan",
+    "publisher": null,
+    "publication_year": null,
+    "description": "English-language public-domain catalogue record from Project Gutenberg. Catalogue ID: 40.",
+    "isbn": null,
+    "category": "Literature",
+    "shelf_location": null
+  },
+  {
+    "title": "The Legend of Sleepy Hollow",
+    "author": "Irving, Washington, 1783-1859",
+    "publisher": null,
+    "publication_year": null,
+    "description": "English-language public-domain catalogue record from Project Gutenberg. Catalogue ID: 41.",
+    "isbn": null,
+    "category": "History",
+    "shelf_location": null
+  },
+  {
+    "title": "The strange case of Dr. Jekyll and Mr. Hyde",
+    "author": "Stevenson, Robert Louis, 1850-1894",
+    "publisher": null,
+    "publication_year": null,
+    "description": "English-language public-domain catalogue record from Project Gutenberg. Catalogue ID: 42.",
+    "isbn": null,
+    "category": "Science and Technology",
+    "shelf_location": null
+  },
+  {
+    "title": "The Song of the Lark",
+    "author": "Cather, Willa, 1873-1947",
+    "publisher": null,
+    "publication_year": null,
+    "description": "English-language public-domain catalogue record from Project Gutenberg. Catalogue ID: 44.",
+    "isbn": null,
+    "category": "Fiction",
+    "shelf_location": null
+  },
+  {
+    "title": "Anne of Green Gables",
+    "author": "Montgomery, L. M. (Lucy Maud), 1874-1942",
+    "publisher": null,
+    "publication_year": null,
+    "description": "English-language public-domain catalogue record from Project Gutenberg. Catalogue ID: 45.",
+    "isbn": null,
+    "category": "History",
+    "shelf_location": null
+  },
+  {
+    "title": "A Christmas Carol in Prose; Being a Ghost Story of Christmas",
+    "author": "Dickens, Charles, 1812-1870; Leech, John, 1817-1864 [Illustrator]",
+    "publisher": null,
+    "publication_year": null,
+    "description": "English-language public-domain catalogue record from Project Gutenberg. Catalogue ID: 46.",
+    "isbn": null,
+    "category": "Fiction",
+    "shelf_location": null
+  },
+  {
+    "title": "Anne of Avonlea",
+    "author": "Montgomery, L. M. (Lucy Maud), 1874-1942",
+    "publisher": null,
+    "publication_year": null,
+    "description": "English-language public-domain catalogue record from Project Gutenberg. Catalogue ID: 47.",
+    "isbn": null,
+    "category": "History",
+    "shelf_location": null
+  },
+  {
+    "title": "The 1992 CIA World Factbook",
+    "author": "United States. Central Intelligence Agency",
+    "publisher": null,
+    "publication_year": null,
+    "description": "English-language public-domain catalogue record from Project Gutenberg. Catalogue ID: 48.",
+    "isbn": null,
+    "category": "Science and Technology",
+    "shelf_location": null
+  },
+  {
+    "title": "Surfing the Internet: An Introduction\r\nVersion 2.0.2",
+    "author": "Polly, Jean Armour",
+    "publisher": null,
+    "publication_year": null,
+    "description": "English-language public-domain catalogue record from Project Gutenberg. Catalogue ID: 49.",
+    "isbn": null,
+    "category": "Computer Science",
+    "shelf_location": null
+  },
+  {
+    "title": "Anne of the Island",
+    "author": "Montgomery, L. M. (Lucy Maud), 1874-1942",
+    "publisher": null,
+    "publication_year": null,
+    "description": "English-language public-domain catalogue record from Project Gutenberg. Catalogue ID: 51.",
+    "isbn": null,
+    "category": "History",
+    "shelf_location": null
+  },
+  {
+    "title": "Workshop on Electronic Texts: Proceedings, 9-10 June 1992",
+    "author": "Library of Congress; Daly, James, 1948- [Editor]",
+    "publisher": null,
+    "publication_year": null,
+    "description": "English-language public-domain catalogue record from Project Gutenberg. Catalogue ID: 53.",
+    "isbn": null,
+    "category": "Computer Science",
+    "shelf_location": null
+  },
+  {
+    "title": "The Marvelous Land of Oz",
+    "author": "Baum, L. Frank (Lyman Frank), 1856-1919; Neill, John R. (John Rea), 1877-1943 [Illustrator]",
+    "publisher": null,
+    "publication_year": null,
+    "description": "English-language public-domain catalogue record from Project Gutenberg. Catalogue ID: 54.",
+    "isbn": null,
+    "category": "Fiction",
+    "shelf_location": null
+  },
+  {
+    "title": "The Wonderful Wizard of Oz",
+    "author": "Baum, L. Frank (Lyman Frank), 1856-1919",
+    "publisher": null,
+    "publication_year": null,
+    "description": "English-language public-domain catalogue record from Project Gutenberg. Catalogue ID: 55.",
+    "isbn": null,
+    "category": "Fiction",
+    "shelf_location": null
+  },
+  {
+    "title": "NREN for All: Insurmountable Opportunity",
+    "author": "Polly, Jean Armour",
+    "publisher": null,
+    "publication_year": null,
+    "description": "English-language public-domain catalogue record from Project Gutenberg. Catalogue ID: 56.",
+    "isbn": null,
+    "category": "Computer Science",
+    "shelf_location": null
+  },
+  {
+    "title": "Aladdin and the Magic Lamp",
+    "author": "Unknown",
+    "publisher": null,
+    "publication_year": null,
+    "description": "English-language public-domain catalogue record from Project Gutenberg. Catalogue ID: 57.",
+    "isbn": null,
+    "category": "Literature",
+    "shelf_location": null
+  },
+  {
+    "title": "Paradise Regained",
+    "author": "Milton, John, 1608-1674",
+    "publisher": null,
+    "publication_year": null,
+    "description": "English-language public-domain catalogue record from Project Gutenberg. Catalogue ID: 58.",
+    "isbn": null,
+    "category": "History",
+    "shelf_location": null
+  },
+  {
+    "title": "Discourse on the Method of Rightly Conducting One's Reason and of Seeking Truth in the Sciences",
+    "author": "Descartes, René, 1596-1650; Veitch, John, 1829-1894 [Translator]",
+    "publisher": null,
+    "publication_year": null,
+    "description": "English-language public-domain catalogue record from Project Gutenberg. Catalogue ID: 59.",
+    "isbn": null,
+    "category": "Science and Technology",
+    "shelf_location": null
+  },
+  {
+    "title": "The Scarlet Pimpernel",
+    "author": "Orczy, Emmuska Orczy, Baroness, 1865-1947",
+    "publisher": null,
+    "publication_year": null,
+    "description": "English-language public-domain catalogue record from Project Gutenberg. Catalogue ID: 60.",
+    "isbn": null,
+    "category": "History",
+    "shelf_location": null
+  },
+  {
+    "title": "The Communist Manifesto",
+    "author": "Marx, Karl, 1818-1883; Engels, Friedrich, 1820-1895",
+    "publisher": null,
+    "publication_year": null,
+    "description": "English-language public-domain catalogue record from Project Gutenberg. Catalogue ID: 61.",
+    "isbn": null,
+    "category": "Literature",
+    "shelf_location": null
+  },
+  {
+    "title": "A princess of Mars",
+    "author": "Burroughs, Edgar Rice, 1875-1950",
+    "publisher": null,
+    "publication_year": null,
+    "description": "English-language public-domain catalogue record from Project Gutenberg. Catalogue ID: 62.",
+    "isbn": null,
+    "category": "Science and Technology",
+    "shelf_location": null
+  },
+  {
+    "title": "The Number \"e\"",
+    "author": "Unknown",
+    "publisher": null,
+    "publication_year": null,
+    "description": "English-language public-domain catalogue record from Project Gutenberg. Catalogue ID: 63.",
+    "isbn": null,
+    "category": "Mathematics",
+    "shelf_location": null
+  },
+  {
+    "title": "The gods of Mars",
+    "author": "Burroughs, Edgar Rice, 1875-1950",
+    "publisher": null,
+    "publication_year": null,
+    "description": "English-language public-domain catalogue record from Project Gutenberg. Catalogue ID: 64.",
+    "isbn": null,
+    "category": "Science and Technology",
+    "shelf_location": null
+  },
+  {
+    "title": "The Dawn of Amateur Radio in the U.K. and Greece: A Personal View",
+    "author": "Joly, Norman F.",
+    "publisher": null,
+    "publication_year": null,
+    "description": "English-language public-domain catalogue record from Project Gutenberg. Catalogue ID: 66.",
+    "isbn": null,
+    "category": "Literature",
+    "shelf_location": null
+  },
+  {
+    "title": "The Black Experience in America",
+    "author": "Coombs, Norman, 1932-",
+    "publisher": null,
+    "publication_year": null,
+    "description": "English-language public-domain catalogue record from Project Gutenberg. Catalogue ID: 67.",
+    "isbn": null,
+    "category": "History",
+    "shelf_location": null
+  },
+  {
+    "title": "The warlord of Mars",
+    "author": "Burroughs, Edgar Rice, 1875-1950",
+    "publisher": null,
+    "publication_year": null,
+    "description": "English-language public-domain catalogue record from Project Gutenberg. Catalogue ID: 68.",
+    "isbn": null,
+    "category": "Science and Technology",
+    "shelf_location": null
+  },
+  {
+    "title": "The 32nd Mersenne Prime\nPredicted by Mersenne",
+    "author": "Slowinski, David",
+    "publisher": null,
+    "publication_year": null,
+    "description": "English-language public-domain catalogue record from Project Gutenberg. Catalogue ID: 69.",
+    "isbn": null,
+    "category": "Literature",
+    "shelf_location": null
+  },
+  {
+    "title": "What Is Man? and Other Essays",
+    "author": "Twain, Mark, 1835-1910",
+    "publisher": null,
+    "publication_year": null,
+    "description": "English-language public-domain catalogue record from Project Gutenberg. Catalogue ID: 70.",
+    "isbn": null,
+    "category": "Literature",
+    "shelf_location": null
+  },
+  {
+    "title": "On the Duty of Civil Disobedience",
+    "author": "Thoreau, Henry David, 1817-1862",
+    "publisher": null,
+    "publication_year": null,
+    "description": "English-language public-domain catalogue record from Project Gutenberg. Catalogue ID: 71.",
+    "isbn": null,
+    "category": "Literature",
+    "shelf_location": null
+  },
+  {
+    "title": "Thuvia, maid of Mars",
+    "author": "Burroughs, Edgar Rice, 1875-1950",
+    "publisher": null,
+    "publication_year": null,
+    "description": "English-language public-domain catalogue record from Project Gutenberg. Catalogue ID: 72.",
+    "isbn": null,
+    "category": "Science and Technology",
+    "shelf_location": null
+  },
+  {
+    "title": "The Red Badge of Courage: An Episode of the American Civil War",
+    "author": "Crane, Stephen, 1871-1900",
+    "publisher": null,
+    "publication_year": null,
+    "description": "English-language public-domain catalogue record from Project Gutenberg. Catalogue ID: 73.",
+    "isbn": null,
+    "category": "History",
+    "shelf_location": null
+  },
+  {
+    "title": "The Adventures of Tom Sawyer, Complete",
+    "author": "Twain, Mark, 1835-1910",
+    "publisher": null,
+    "publication_year": null,
+    "description": "English-language public-domain catalogue record from Project Gutenberg. Catalogue ID: 74.",
+    "isbn": null,
+    "category": "Fiction",
+    "shelf_location": null
+  },
+  {
+    "title": "E-mail 101",
+    "author": "Goodwin, John E.",
+    "publisher": null,
+    "publication_year": null,
+    "description": "English-language public-domain catalogue record from Project Gutenberg. Catalogue ID: 75.",
+    "isbn": null,
+    "category": "Literature",
+    "shelf_location": null
+  },
+  {
+    "title": "Adventures of Huckleberry Finn",
+    "author": "Twain, Mark, 1835-1910; Kemble, E. W. (Edward Windsor), 1861-1933 [Illustrator]",
+    "publisher": null,
+    "publication_year": null,
+    "description": "English-language public-domain catalogue record from Project Gutenberg. Catalogue ID: 76.",
+    "isbn": null,
+    "category": "Fiction",
+    "shelf_location": null
+  },
+  {
+    "title": "The House of the Seven Gables",
+    "author": "Hawthorne, Nathaniel, 1804-1864",
+    "publisher": null,
+    "publication_year": null,
+    "description": "English-language public-domain catalogue record from Project Gutenberg. Catalogue ID: 77.",
+    "isbn": null,
+    "category": "History",
+    "shelf_location": null
+  },
+  {
+    "title": "Tarzan of the Apes",
+    "author": "Burroughs, Edgar Rice, 1875-1950",
+    "publisher": null,
+    "publication_year": null,
+    "description": "English-language public-domain catalogue record from Project Gutenberg. Catalogue ID: 78.",
+    "isbn": null,
+    "category": "Fiction",
+    "shelf_location": null
+  },
+  {
+    "title": "Terminal Compromise",
+    "author": "Schwartau, Winn, 1952-",
+    "publisher": null,
+    "publication_year": null,
+    "description": "English-language public-domain catalogue record from Project Gutenberg. Catalogue ID: 79.",
+    "isbn": null,
+    "category": "Computer Science",
+    "shelf_location": null
+  },
+  {
+    "title": "The Online World",
+    "author": "De Presno, Odd, 1944-",
+    "publisher": null,
+    "publication_year": null,
+    "description": "English-language public-domain catalogue record from Project Gutenberg. Catalogue ID: 80.",
+    "isbn": null,
+    "category": "Literature",
+    "shelf_location": null
+  },
+  {
+    "title": "The Return of Tarzan",
+    "author": "Burroughs, Edgar Rice, 1875-1950",
+    "publisher": null,
+    "publication_year": null,
+    "description": "English-language public-domain catalogue record from Project Gutenberg. Catalogue ID: 81.",
+    "isbn": null,
+    "category": "Fiction",
+    "shelf_location": null
+  },
+  {
+    "title": "Ivanhoe: A Romance",
+    "author": "Scott, Walter, 1771-1832",
+    "publisher": null,
+    "publication_year": null,
+    "description": "English-language public-domain catalogue record from Project Gutenberg. Catalogue ID: 82.",
+    "isbn": null,
+    "category": "History",
+    "shelf_location": null
+  },
+  {
+    "title": "From the Earth to the moon; and, round the moon",
+    "author": "Verne, Jules, 1828-1905",
+    "publisher": null,
+    "publication_year": null,
+    "description": "English-language public-domain catalogue record from Project Gutenberg. Catalogue ID: 83.",
+    "isbn": null,
+    "category": "Science and Technology",
+    "shelf_location": null
+  },
+  {
+    "title": "Frankenstein; or, The modern Prometheus",
+    "author": "Shelley, Mary Wollstonecraft, 1797-1851",
+    "publisher": null,
+    "publication_year": null,
+    "description": "English-language public-domain catalogue record from Project Gutenberg. Catalogue ID: 84.",
+    "isbn": null,
+    "category": "Science and Technology",
+    "shelf_location": null
+  },
+  {
+    "title": "The Beasts of Tarzan",
+    "author": "Burroughs, Edgar Rice, 1875-1950",
+    "publisher": null,
+    "publication_year": null,
+    "description": "English-language public-domain catalogue record from Project Gutenberg. Catalogue ID: 85.",
+    "isbn": null,
+    "category": "Fiction",
+    "shelf_location": null
+  },
+  {
+    "title": "A Connecticut Yankee in King Arthur's Court",
+    "author": "Twain, Mark, 1835-1910",
+    "publisher": null,
+    "publication_year": null,
+    "description": "English-language public-domain catalogue record from Project Gutenberg. Catalogue ID: 86.",
+    "isbn": null,
+    "category": "Fiction",
+    "shelf_location": null
+  },
+  {
+    "title": "The 1993 CIA World Factbook",
+    "author": "United States. Central Intelligence Agency",
+    "publisher": null,
+    "publication_year": null,
+    "description": "English-language public-domain catalogue record from Project Gutenberg. Catalogue ID: 87.",
+    "isbn": null,
+    "category": "Science and Technology",
+    "shelf_location": null
+  },
+  {
+    "title": "Price/Cost Indexes from 1875 to 1989; Estimated to 2010",
+    "author": "Hart, Michael, 1947-2011",
+    "publisher": null,
+    "publication_year": null,
+    "description": "English-language public-domain catalogue record from Project Gutenberg. Catalogue ID: 88.",
+    "isbn": null,
+    "category": "Literature",
+    "shelf_location": null
+  },
+  {
+    "title": "North American Free Trade Agreement, 1992 Oct. 7 Tariff Phasing Descriptions",
+    "author": "Canada",
+    "publisher": null,
+    "publication_year": null,
+    "description": "English-language public-domain catalogue record from Project Gutenberg. Catalogue ID: 89.",
+    "isbn": null,
+    "category": "Literature",
+    "shelf_location": null
+  },
+  {
+    "title": "The Son of Tarzan",
+    "author": "Burroughs, Edgar Rice, 1875-1950",
+    "publisher": null,
+    "publication_year": null,
+    "description": "English-language public-domain catalogue record from Project Gutenberg. Catalogue ID: 90.",
+    "isbn": null,
+    "category": "Fiction",
+    "shelf_location": null
+  },
+  {
+    "title": "Tom Sawyer Abroad",
+    "author": "Twain, Mark, 1835-1910",
+    "publisher": null,
+    "publication_year": null,
+    "description": "English-language public-domain catalogue record from Project Gutenberg. Catalogue ID: 91.",
+    "isbn": null,
+    "category": "Fiction",
+    "shelf_location": null
+  },
+  {
+    "title": "Tarzan and the Jewels of Opar",
+    "author": "Burroughs, Edgar Rice, 1875-1950",
+    "publisher": null,
+    "publication_year": null,
+    "description": "English-language public-domain catalogue record from Project Gutenberg. Catalogue ID: 92.",
+    "isbn": null,
+    "category": "Fiction",
+    "shelf_location": null
+  },
+  {
+    "title": "Tom Sawyer, Detective",
+    "author": "Twain, Mark, 1835-1910",
+    "publisher": null,
+    "publication_year": null,
+    "description": "English-language public-domain catalogue record from Project Gutenberg. Catalogue ID: 93.",
+    "isbn": null,
+    "category": "Fiction",
+    "shelf_location": null
+  },
+  {
+    "title": "Alexander's Bridge",
+    "author": "Cather, Willa, 1873-1947",
+    "publisher": null,
+    "publication_year": null,
+    "description": "English-language public-domain catalogue record from Project Gutenberg. Catalogue ID: 94.",
+    "isbn": null,
+    "category": "Fiction",
+    "shelf_location": null
+  },
+  {
+    "title": "The prisoner of Zenda",
+    "author": "Hope, Anthony, 1863-1933",
+    "publisher": null,
+    "publication_year": null,
+    "description": "English-language public-domain catalogue record from Project Gutenberg. Catalogue ID: 95.",
+    "isbn": null,
+    "category": "Fiction",
+    "shelf_location": null
+  },
+  {
+    "title": "The Monster Men",
+    "author": "Burroughs, Edgar Rice, 1875-1950",
+    "publisher": null,
+    "publication_year": null,
+    "description": "English-language public-domain catalogue record from Project Gutenberg. Catalogue ID: 96.",
+    "isbn": null,
+    "category": "Science and Technology",
+    "shelf_location": null
+  },
+  {
+    "title": "Flatland: A Romance of Many Dimensions",
+    "author": "Abbott, Edwin Abbott, 1838-1926",
+    "publisher": null,
+    "publication_year": null,
+    "description": "English-language public-domain catalogue record from Project Gutenberg. Catalogue ID: 97.",
+    "isbn": null,
+    "category": "Literature",
+    "shelf_location": null
+  },
+  {
+    "title": "A Tale of Two Cities",
+    "author": "Dickens, Charles, 1812-1870",
+    "publisher": null,
+    "publication_year": null,
+    "description": "English-language public-domain catalogue record from Project Gutenberg. Catalogue ID: 98.",
+    "isbn": null,
+    "category": "History",
+    "shelf_location": null
+  },
+  {
+    "title": "Collected Articles of Frederick Douglass",
+    "author": "Douglass, Frederick, 1818-1895",
+    "publisher": null,
+    "publication_year": null,
+    "description": "English-language public-domain catalogue record from Project Gutenberg. Catalogue ID: 99.",
+    "isbn": null,
+    "category": "History",
+    "shelf_location": null
+  },
+  {
+    "title": "The Complete Works of William Shakespeare",
+    "author": "Shakespeare, William, 1564-1616",
+    "publisher": null,
+    "publication_year": null,
+    "description": "English-language public-domain catalogue record from Project Gutenberg. Catalogue ID: 100.",
+    "isbn": null,
+    "category": "Literature",
+    "shelf_location": null
+  },
+  {
+    "title": "The Hacker Crackdown: Law and Disorder on the Electronic Frontier",
+    "author": "Sterling, Bruce, 1954-",
+    "publisher": null,
+    "publication_year": null,
+    "description": "English-language public-domain catalogue record from Project Gutenberg. Catalogue ID: 101.",
+    "isbn": null,
+    "category": "Computer Science",
+    "shelf_location": null
+  },
+  {
+    "title": "The Tragedy of Pudd'nhead Wilson",
+    "author": "Twain, Mark, 1835-1910",
+    "publisher": null,
+    "publication_year": null,
+    "description": "English-language public-domain catalogue record from Project Gutenberg. Catalogue ID: 102.",
+    "isbn": null,
+    "category": "Fiction",
+    "shelf_location": null
+  },
+  {
+    "title": "Around the World in Eighty Days",
+    "author": "Verne, Jules, 1828-1905; Towle, George M. (George Makepeace), 1841-1893 [Translator]",
+    "publisher": null,
+    "publication_year": null,
+    "description": "English-language public-domain catalogue record from Project Gutenberg. Catalogue ID: 103.",
+    "isbn": null,
+    "category": "Fiction",
+    "shelf_location": null
+  },
+  {
+    "title": "Inaugural Address of Franklin Delano Roosevelt\r\nGiven in Washington, D.C. March 4th, 1933",
+    "author": "Roosevelt, Franklin D. (Franklin Delano), 1882-1945",
+    "publisher": null,
+    "publication_year": null,
+    "description": "English-language public-domain catalogue record from Project Gutenberg. Catalogue ID: 104.",
+    "isbn": null,
+    "category": "Literature",
+    "shelf_location": null
+  },
+  {
+    "title": "Persuasion",
+    "author": "Austen, Jane, 1775-1817",
+    "publisher": null,
+    "publication_year": null,
+    "description": "English-language public-domain catalogue record from Project Gutenberg. Catalogue ID: 105.",
+    "isbn": null,
+    "category": "Fiction",
+    "shelf_location": null
+  },
+  {
+    "title": "Jungle Tales of Tarzan",
+    "author": "Burroughs, Edgar Rice, 1875-1950",
+    "publisher": null,
+    "publication_year": null,
+    "description": "English-language public-domain catalogue record from Project Gutenberg. Catalogue ID: 106.",
+    "isbn": null,
+    "category": "Fiction",
+    "shelf_location": null
+  },
+  {
+    "title": "The Return of Sherlock Holmes",
+    "author": "Doyle, Arthur Conan, 1859-1930",
+    "publisher": null,
+    "publication_year": null,
+    "description": "English-language public-domain catalogue record from Project Gutenberg. Catalogue ID: 108.",
+    "isbn": null,
+    "category": "Fiction",
+    "shelf_location": null
+  },
+  {
+    "title": "Renascence, and Other Poems",
+    "author": "Millay, Edna St. Vincent, 1892-1950",
+    "publisher": null,
+    "publication_year": null,
+    "description": "English-language public-domain catalogue record from Project Gutenberg. Catalogue ID: 109.",
+    "isbn": null,
+    "category": "Literature",
+    "shelf_location": null
+  },
+  {
+    "title": "Tess of the d'Urbervilles: A Pure Woman",
+    "author": "Hardy, Thomas, 1840-1928",
+    "publisher": null,
+    "publication_year": null,
+    "description": "English-language public-domain catalogue record from Project Gutenberg. Catalogue ID: 110.",
+    "isbn": null,
+    "category": "Fiction",
+    "shelf_location": null
+  },
+  {
+    "title": "Freckles",
+    "author": "Stratton-Porter, Gene, 1863-1924",
+    "publisher": null,
+    "publication_year": null,
+    "description": "English-language public-domain catalogue record from Project Gutenberg. Catalogue ID: 111.",
+    "isbn": null,
+    "category": "Fiction",
+    "shelf_location": null
+  },
+  {
+    "title": "Violists",
+    "author": "McGowan, Richard, 1958-",
+    "publisher": null,
+    "publication_year": null,
+    "description": "English-language public-domain catalogue record from Project Gutenberg. Catalogue ID: 112.",
+    "isbn": null,
+    "category": "Fiction",
+    "shelf_location": null
+  },
+  {
+    "title": "The Secret Garden",
+    "author": "Burnett, Frances Hodgson, 1849-1924",
+    "publisher": null,
+    "publication_year": null,
+    "description": "English-language public-domain catalogue record from Project Gutenberg. Catalogue ID: 113.",
+    "isbn": null,
+    "category": "Fiction",
+    "shelf_location": null
+  },
+  {
+    "title": "United States Census Figures Back to 1630",
+    "author": "United States. Bureau of the Census",
+    "publisher": null,
+    "publication_year": null,
+    "description": "English-language public-domain catalogue record from Project Gutenberg. Catalogue ID: 115.",
+    "isbn": null,
+    "category": "Literature",
+    "shelf_location": null
+  },
+  {
+    "title": "Symphony No. 5 in C minor Opus 67",
+    "author": "Beethoven, Ludwig van, 1770-1827",
+    "publisher": null,
+    "publication_year": null,
+    "description": "English-language public-domain catalogue record from Project Gutenberg. Catalogue ID: 117.",
+    "isbn": null,
+    "category": "Literature",
+    "shelf_location": null
+  },
+  {
+    "title": "Big Dummy's Guide to the Internet",
+    "author": "Electronic Frontier Foundation; Gaffin, Adam [Author of introduction, etc.]; Kapor, Mitchell [Author of introduction, etc.]",
+    "publisher": null,
+    "publication_year": null,
+    "description": "English-language public-domain catalogue record from Project Gutenberg. Catalogue ID: 118.",
+    "isbn": null,
+    "category": "Computer Science",
+    "shelf_location": null
+  },
+  {
+    "title": "A Tramp Abroad",
+    "author": "Twain, Mark, 1835-1910",
+    "publisher": null,
+    "publication_year": null,
+    "description": "English-language public-domain catalogue record from Project Gutenberg. Catalogue ID: 119.",
+    "isbn": null,
+    "category": "Fiction",
+    "shelf_location": null
+  },
+  {
+    "title": "Treasure Island",
+    "author": "Stevenson, Robert Louis, 1850-1894; Rhead, Louis, 1857-1926 [Illustrator]",
+    "publisher": null,
+    "publication_year": null,
+    "description": "English-language public-domain catalogue record from Project Gutenberg. Catalogue ID: 120.",
+    "isbn": null,
+    "category": "Fiction",
+    "shelf_location": null
+  },
+  {
+    "title": "Northanger Abbey",
+    "author": "Austen, Jane, 1775-1817",
+    "publisher": null,
+    "publication_year": null,
+    "description": "English-language public-domain catalogue record from Project Gutenberg. Catalogue ID: 121.",
+    "isbn": null,
+    "category": "Fiction",
+    "shelf_location": null
+  },
+  {
+    "title": "The Return of the Native",
+    "author": "Hardy, Thomas, 1840-1928",
+    "publisher": null,
+    "publication_year": null,
+    "description": "English-language public-domain catalogue record from Project Gutenberg. Catalogue ID: 122.",
+    "isbn": null,
+    "category": "Fiction",
+    "shelf_location": null
+  },
+  {
+    "title": "At the Earth's Core",
+    "author": "Burroughs, Edgar Rice, 1875-1950",
+    "publisher": null,
+    "publication_year": null,
+    "description": "English-language public-domain catalogue record from Project Gutenberg. Catalogue ID: 123.",
+    "isbn": null,
+    "category": "Science and Technology",
+    "shelf_location": null
+  },
+  {
+    "title": "Deuterocanonical Books of the Bible\r\nApocrypha",
+    "author": "Anonymous",
+    "publisher": null,
+    "publication_year": null,
+    "description": "English-language public-domain catalogue record from Project Gutenberg. Catalogue ID: 124.",
+    "isbn": null,
+    "category": "Literature",
+    "shelf_location": null
+  },
+  {
+    "title": "A Girl of the Limberlost",
+    "author": "Stratton-Porter, Gene, 1863-1924",
+    "publisher": null,
+    "publication_year": null,
+    "description": "English-language public-domain catalogue record from Project Gutenberg. Catalogue ID: 125.",
+    "isbn": null,
+    "category": "Fiction",
+    "shelf_location": null
+  },
+  {
+    "title": "The Poison Belt",
+    "author": "Doyle, Arthur Conan, 1859-1930",
+    "publisher": null,
+    "publication_year": null,
+    "description": "English-language public-domain catalogue record from Project Gutenberg. Catalogue ID: 126.",
+    "isbn": null,
+    "category": "Science and Technology",
+    "shelf_location": null
+  },
+  {
+    "title": "The Arabian Nights Entertainments",
+    "author": "Lang, Andrew, 1844-1912",
+    "publisher": null,
+    "publication_year": null,
+    "description": "English-language public-domain catalogue record from Project Gutenberg. Catalogue ID: 128.",
+    "isbn": null,
+    "category": "Literature",
+    "shelf_location": null
+  },
+  {
+    "title": "Orthodoxy",
+    "author": "Chesterton, G. K. (Gilbert Keith), 1874-1936",
+    "publisher": null,
+    "publication_year": null,
+    "description": "English-language public-domain catalogue record from Project Gutenberg. Catalogue ID: 130.",
+    "isbn": null,
+    "category": "Literature",
+    "shelf_location": null
+  },
+  {
+    "title": "The Pilgrim's Progress from this world to that which is to come\r\nDelivered under the similitude of a dream, by John Bunyan",
+    "author": "Bunyan, John, 1628-1688",
+    "publisher": null,
+    "publication_year": null,
+    "description": "English-language public-domain catalogue record from Project Gutenberg. Catalogue ID: 131.",
+    "isbn": null,
+    "category": "Fiction",
+    "shelf_location": null
+  },
+  {
+    "title": "The Art of War",
+    "author": "Sunzi, active 6th century B.C.; Giles, Lionel, 1875-1958 [Translator]",
+    "publisher": null,
+    "publication_year": null,
+    "description": "English-language public-domain catalogue record from Project Gutenberg. Catalogue ID: 132.",
+    "isbn": null,
+    "category": "Science and Technology",
+    "shelf_location": null
+  },
+  {
+    "title": "The Damnation of Theron Ware",
+    "author": "Frederic, Harold, 1856-1898",
+    "publisher": null,
+    "publication_year": null,
+    "description": "English-language public-domain catalogue record from Project Gutenberg. Catalogue ID: 133.",
+    "isbn": null,
+    "category": "Fiction",
+    "shelf_location": null
+  },
+  {
+    "title": "Maria; Or, The Wrongs of Woman",
+    "author": "Wollstonecraft, Mary, 1759-1797",
+    "publisher": null,
+    "publication_year": null,
+    "description": "English-language public-domain catalogue record from Project Gutenberg. Catalogue ID: 134.",
+    "isbn": null,
+    "category": "Fiction",
+    "shelf_location": null
+  },
+  {
+    "title": "Les Misérables",
+    "author": "Hugo, Victor, 1802-1885; Hapgood, Isabel Florence, 1850-1928 [Translator]",
+    "publisher": null,
+    "publication_year": null,
+    "description": "English-language public-domain catalogue record from Project Gutenberg. Catalogue ID: 135.",
+    "isbn": null,
+    "category": "History",
+    "shelf_location": null
+  },
+  {
+    "title": "A Child's Garden of Verses",
+    "author": "Stevenson, Robert Louis, 1850-1894",
+    "publisher": null,
+    "publication_year": null,
+    "description": "English-language public-domain catalogue record from Project Gutenberg. Catalogue ID: 136.",
+    "isbn": null,
+    "category": "Literature",
+    "shelf_location": null
+  },
+  {
+    "title": "Sara Crewe; Or, What Happened at Miss Minchin's Boarding School",
+    "author": "Burnett, Frances Hodgson, 1849-1924",
+    "publisher": null,
+    "publication_year": null,
+    "description": "English-language public-domain catalogue record from Project Gutenberg. Catalogue ID: 137.",
+    "isbn": null,
+    "category": "Education",
+    "shelf_location": null
+  },
+  {
+    "title": "George Sand: Some Aspects of Her Life and Writings",
+    "author": "Doumic, René, 1860-1937; Hallard, Alys [Translator]",
+    "publisher": null,
+    "publication_year": null,
+    "description": "English-language public-domain catalogue record from Project Gutenberg. Catalogue ID: 138.",
+    "isbn": null,
+    "category": "Biography and Autobiography",
+    "shelf_location": null
+  },
+  {
+    "title": "The Lost World",
+    "author": "Doyle, Arthur Conan, 1859-1930",
+    "publisher": null,
+    "publication_year": null,
+    "description": "English-language public-domain catalogue record from Project Gutenberg. Catalogue ID: 139.",
+    "isbn": null,
+    "category": "Fiction",
+    "shelf_location": null
+  },
+  {
+    "title": "The Jungle",
+    "author": "Sinclair, Upton, 1878-1968",
+    "publisher": null,
+    "publication_year": null,
+    "description": "English-language public-domain catalogue record from Project Gutenberg. Catalogue ID: 140.",
+    "isbn": null,
+    "category": "Fiction",
+    "shelf_location": null
+  },
+  {
+    "title": "Mansfield Park",
+    "author": "Austen, Jane, 1775-1817",
+    "publisher": null,
+    "publication_year": null,
+    "description": "English-language public-domain catalogue record from Project Gutenberg. Catalogue ID: 141.",
+    "isbn": null,
+    "category": "Fiction",
+    "shelf_location": null
+  },
+  {
+    "title": "The $30,000 Bequest, and Other Stories",
+    "author": "Twain, Mark, 1835-1910",
+    "publisher": null,
+    "publication_year": null,
+    "description": "English-language public-domain catalogue record from Project Gutenberg. Catalogue ID: 142.",
+    "isbn": null,
+    "category": "Fiction",
+    "shelf_location": null
+  },
+  {
+    "title": "The Mayor of Casterbridge",
+    "author": "Hardy, Thomas, 1840-1928",
+    "publisher": null,
+    "publication_year": null,
+    "description": "English-language public-domain catalogue record from Project Gutenberg. Catalogue ID: 143.",
+    "isbn": null,
+    "category": "Fiction",
+    "shelf_location": null
+  },
+  {
+    "title": "The Voyage Out",
+    "author": "Woolf, Virginia, 1882-1941",
+    "publisher": null,
+    "publication_year": null,
+    "description": "English-language public-domain catalogue record from Project Gutenberg. Catalogue ID: 144.",
+    "isbn": null,
+    "category": "Fiction",
+    "shelf_location": null
+  },
+  {
+    "title": "Middlemarch",
+    "author": "Eliot, George, 1819-1880",
+    "publisher": null,
+    "publication_year": null,
+    "description": "English-language public-domain catalogue record from Project Gutenberg. Catalogue ID: 145.",
+    "isbn": null,
+    "category": "Fiction",
+    "shelf_location": null
+  },
+  {
+    "title": "A Little Princess\r\nBeing the whole story of Sara Crewe now told for the first time",
+    "author": "Burnett, Frances Hodgson, 1849-1924",
+    "publisher": null,
+    "publication_year": null,
+    "description": "English-language public-domain catalogue record from Project Gutenberg. Catalogue ID: 146.",
+    "isbn": null,
+    "category": "Education",
+    "shelf_location": null
+  },
+  {
+    "title": "Common Sense",
+    "author": "Paine, Thomas, 1737-1809",
+    "publisher": null,
+    "publication_year": null,
+    "description": "English-language public-domain catalogue record from Project Gutenberg. Catalogue ID: 147.",
+    "isbn": null,
+    "category": "Science and Technology",
+    "shelf_location": null
+  },
+  {
+    "title": "The Autobiography of Benjamin Franklin",
+    "author": "Franklin, Benjamin, 1706-1790; Eliot, Charles William, 1834-1926 [Editor]",
+    "publisher": null,
+    "publication_year": null,
+    "description": "English-language public-domain catalogue record from Project Gutenberg. Catalogue ID: 148.",
+    "isbn": null,
+    "category": "Biography and Autobiography",
+    "shelf_location": null
+  },
+  {
+    "title": "The Lost Continent",
+    "author": "Burroughs, Edgar Rice, 1875-1950",
+    "publisher": null,
+    "publication_year": null,
+    "description": "English-language public-domain catalogue record from Project Gutenberg. Catalogue ID: 149.",
+    "isbn": null,
+    "category": "Science and Technology",
+    "shelf_location": null
+  },
+  {
+    "title": "The Republic",
+    "author": "Plato, 428? BCE-348? BCE; Jowett, Benjamin, 1817-1893 [Translator]",
+    "publisher": null,
+    "publication_year": null,
+    "description": "English-language public-domain catalogue record from Project Gutenberg. Catalogue ID: 150.",
+    "isbn": null,
+    "category": "Science and Technology",
+    "shelf_location": null
+  },
+  {
+    "title": "The Rime of the Ancient Mariner",
+    "author": "Coleridge, Samuel Taylor, 1772-1834",
+    "publisher": null,
+    "publication_year": null,
+    "description": "English-language public-domain catalogue record from Project Gutenberg. Catalogue ID: 151.",
+    "isbn": null,
+    "category": "Literature",
+    "shelf_location": null
+  },
+  {
+    "title": "Wild Justice",
+    "author": "Sprague, Ruth M.",
+    "publisher": null,
+    "publication_year": null,
+    "description": "English-language public-domain catalogue record from Project Gutenberg. Catalogue ID: 152.",
+    "isbn": null,
+    "category": "Fiction",
+    "shelf_location": null
+  },
+  {
+    "title": "Jude the Obscure",
+    "author": "Hardy, Thomas, 1840-1928",
+    "publisher": null,
+    "publication_year": null,
+    "description": "English-language public-domain catalogue record from Project Gutenberg. Catalogue ID: 153.",
+    "isbn": null,
+    "category": "Fiction",
+    "shelf_location": null
+  },
+  {
+    "title": "The Rise of Silas Lapham",
+    "author": "Howells, William Dean, 1837-1920",
+    "publisher": null,
+    "publication_year": null,
+    "description": "English-language public-domain catalogue record from Project Gutenberg. Catalogue ID: 154.",
+    "isbn": null,
+    "category": "Business and Economics",
+    "shelf_location": null
+  },
+  {
+    "title": "The Moonstone",
+    "author": "Collins, Wilkie, 1824-1889",
+    "publisher": null,
+    "publication_year": null,
+    "description": "English-language public-domain catalogue record from Project Gutenberg. Catalogue ID: 155.",
+    "isbn": null,
+    "category": "Fiction",
+    "shelf_location": null
+  },
+  {
+    "title": "Symphony No. 5 in C minor, Opus 67",
+    "author": "Beethoven, Ludwig van, 1770-1827",
+    "publisher": null,
+    "publication_year": null,
+    "description": "English-language public-domain catalogue record from Project Gutenberg. Catalogue ID: 156.",
+    "isbn": null,
+    "category": "Literature",
+    "shelf_location": null
+  },
+  {
+    "title": "Daddy-Long-Legs",
+    "author": "Webster, Jean, 1876-1916",
+    "publisher": null,
+    "publication_year": null,
+    "description": "English-language public-domain catalogue record from Project Gutenberg. Catalogue ID: 157.",
+    "isbn": null,
+    "category": "Education",
+    "shelf_location": null
+  },
+  {
+    "title": "Emma",
+    "author": "Austen, Jane, 1775-1817",
+    "publisher": null,
+    "publication_year": null,
+    "description": "English-language public-domain catalogue record from Project Gutenberg. Catalogue ID: 158.",
+    "isbn": null,
+    "category": "Fiction",
+    "shelf_location": null
+  },
+  {
+    "title": "The island of Doctor Moreau",
+    "author": "Wells, H. G. (Herbert George), 1866-1946",
+    "publisher": null,
+    "publication_year": null,
+    "description": "English-language public-domain catalogue record from Project Gutenberg. Catalogue ID: 159.",
+    "isbn": null,
+    "category": "Science and Technology",
+    "shelf_location": null
+  },
+  {
+    "title": "The Awakening, and Selected Short Stories",
+    "author": "Chopin, Kate, 1850-1904",
+    "publisher": null,
+    "publication_year": null,
+    "description": "English-language public-domain catalogue record from Project Gutenberg. Catalogue ID: 160.",
+    "isbn": null,
+    "category": "Fiction",
+    "shelf_location": null
+  },
+  {
+    "title": "Sense and Sensibility",
+    "author": "Austen, Jane, 1775-1817",
+    "publisher": null,
+    "publication_year": null,
+    "description": "English-language public-domain catalogue record from Project Gutenberg. Catalogue ID: 161.",
+    "isbn": null,
+    "category": "Fiction",
+    "shelf_location": null
+  },
+  {
+    "title": "Take Me for a Ride: Coming of Age in a Destructive Cult",
+    "author": "Laxer, Mark E.",
+    "publisher": null,
+    "publication_year": null,
+    "description": "English-language public-domain catalogue record from Project Gutenberg. Catalogue ID: 162.",
+    "isbn": null,
+    "category": "Literature",
+    "shelf_location": null
+  },
+  {
+    "title": "Flower Fables",
+    "author": "Alcott, Louisa May, 1832-1888",
+    "publisher": null,
+    "publication_year": null,
+    "description": "English-language public-domain catalogue record from Project Gutenberg. Catalogue ID: 163.",
+    "isbn": null,
+    "category": "Fiction",
+    "shelf_location": null
+  },
+  {
+    "title": "Twenty Thousand Leagues under the Sea",
+    "author": "Verne, Jules, 1828-1905",
+    "publisher": null,
+    "publication_year": null,
+    "description": "English-language public-domain catalogue record from Project Gutenberg. Catalogue ID: 164.",
+    "isbn": null,
+    "category": "Science and Technology",
+    "shelf_location": null
+  },
+  {
+    "title": "McTeague: A Story of San Francisco",
+    "author": "Norris, Frank, 1870-1902",
+    "publisher": null,
+    "publication_year": null,
+    "description": "English-language public-domain catalogue record from Project Gutenberg. Catalogue ID: 165.",
+    "isbn": null,
+    "category": "Fiction",
+    "shelf_location": null
+  },
+  {
+    "title": "Summer",
+    "author": "Wharton, Edith, 1862-1937",
+    "publisher": null,
+    "publication_year": null,
+    "description": "English-language public-domain catalogue record from Project Gutenberg. Catalogue ID: 166.",
+    "isbn": null,
+    "category": "Fiction",
+    "shelf_location": null
+  },
+  {
+    "title": "American Hand Book of the Daguerreotype",
+    "author": "Humphrey, S. D. (Samuel Dwight), 1823-1883",
+    "publisher": null,
+    "publication_year": null,
+    "description": "English-language public-domain catalogue record from Project Gutenberg. Catalogue ID: 167.",
+    "isbn": null,
+    "category": "Literature",
+    "shelf_location": null
+  },
+  {
+    "title": "The History and Practice of the Art of Photography",
+    "author": "Snelling, Henry Hunt, 1816-1897",
+    "publisher": null,
+    "publication_year": null,
+    "description": "English-language public-domain catalogue record from Project Gutenberg. Catalogue ID: 168.",
+    "isbn": null,
+    "category": "Literature",
+    "shelf_location": null
+  },
+  {
+    "title": "The Well at the World's End: A Tale",
+    "author": "Morris, William, 1834-1896",
+    "publisher": null,
+    "publication_year": null,
+    "description": "English-language public-domain catalogue record from Project Gutenberg. Catalogue ID: 169.",
+    "isbn": null,
+    "category": "Fiction",
+    "shelf_location": null
+  },
+  {
+    "title": "The Haunted Hotel: A Mystery of Modern Venice",
+    "author": "Collins, Wilkie, 1824-1889",
+    "publisher": null,
+    "publication_year": null,
+    "description": "English-language public-domain catalogue record from Project Gutenberg. Catalogue ID: 170.",
+    "isbn": null,
+    "category": "Fiction",
+    "shelf_location": null
+  },
+  {
+    "title": "Charlotte Temple",
+    "author": "Rowson, Mrs., 1762-1824",
+    "publisher": null,
+    "publication_year": null,
+    "description": "English-language public-domain catalogue record from Project Gutenberg. Catalogue ID: 171.",
+    "isbn": null,
+    "category": "Fiction",
+    "shelf_location": null
+  },
+  {
+    "title": "The Haunted Bookshop",
+    "author": "Morley, Christopher, 1890-1957",
+    "publisher": null,
+    "publication_year": null,
+    "description": "English-language public-domain catalogue record from Project Gutenberg. Catalogue ID: 172.",
+    "isbn": null,
+    "category": "Fiction",
+    "shelf_location": null
+  },
+  {
+    "title": "The Insidious Dr. Fu Manchu",
+    "author": "Rohmer, Sax, 1883-1959",
+    "publisher": null,
+    "publication_year": null,
+    "description": "English-language public-domain catalogue record from Project Gutenberg. Catalogue ID: 173.",
+    "isbn": null,
+    "category": "Fiction",
+    "shelf_location": null
+  },
+  {
+    "title": "The Picture of Dorian Gray",
+    "author": "Wilde, Oscar, 1854-1900",
+    "publisher": null,
+    "publication_year": null,
+    "description": "English-language public-domain catalogue record from Project Gutenberg. Catalogue ID: 174.",
+    "isbn": null,
+    "category": "History",
+    "shelf_location": null
+  },
+  {
+    "title": "The Phantom of the Opera",
+    "author": "Leroux, Gaston, 1868-1927",
+    "publisher": null,
+    "publication_year": null,
+    "description": "English-language public-domain catalogue record from Project Gutenberg. Catalogue ID: 175.",
+    "isbn": null,
+    "category": "Fiction",
+    "shelf_location": null
+  },
+  {
+    "title": "Roderick Hudson",
+    "author": "James, Henry, 1843-1916",
+    "publisher": null,
+    "publication_year": null,
+    "description": "English-language public-domain catalogue record from Project Gutenberg. Catalogue ID: 176.",
+    "isbn": null,
+    "category": "Fiction",
+    "shelf_location": null
+  },
+  {
+    "title": "The American",
+    "author": "James, Henry, 1843-1916",
+    "publisher": null,
+    "publication_year": null,
+    "description": "English-language public-domain catalogue record from Project Gutenberg. Catalogue ID: 177.",
+    "isbn": null,
+    "category": "Fiction",
+    "shelf_location": null
+  },
+  {
+    "title": "Confidence",
+    "author": "James, Henry, 1843-1916",
+    "publisher": null,
+    "publication_year": null,
+    "description": "English-language public-domain catalogue record from Project Gutenberg. Catalogue ID: 178.",
+    "isbn": null,
+    "category": "Fiction",
+    "shelf_location": null
+  },
+  {
+    "title": "The Europeans",
+    "author": "James, Henry, 1843-1916",
+    "publisher": null,
+    "publication_year": null,
+    "description": "English-language public-domain catalogue record from Project Gutenberg. Catalogue ID: 179.",
+    "isbn": null,
+    "category": "Fiction",
+    "shelf_location": null
+  },
+  {
+    "title": "The 1994 CIA World Factbook",
+    "author": "United States. Central Intelligence Agency",
+    "publisher": null,
+    "publication_year": null,
+    "description": "English-language public-domain catalogue record from Project Gutenberg. Catalogue ID: 180.",
+    "isbn": null,
+    "category": "Science and Technology",
+    "shelf_location": null
+  },
+  {
+    "title": "The Project Gutenberg RST Manual",
+    "author": "Perathoner, Marcello",
+    "publisher": null,
+    "publication_year": null,
+    "description": "English-language public-domain catalogue record from Project Gutenberg. Catalogue ID: 181.",
+    "isbn": null,
+    "category": "Literature",
+    "shelf_location": null
+  },
+  {
+    "title": "The Project Gutenberg Encyclopedia, Volume 1 of 28",
+    "author": "Project Gutenberg",
+    "publisher": null,
+    "publication_year": null,
+    "description": "English-language public-domain catalogue record from Project Gutenberg. Catalogue ID: 200.",
+    "isbn": null,
+    "category": "Literature",
+    "shelf_location": null
+  },
+  {
+    "title": "My Bondage and My Freedom",
+    "author": "Douglass, Frederick, 1818-1895",
+    "publisher": null,
+    "publication_year": null,
+    "description": "English-language public-domain catalogue record from Project Gutenberg. Catalogue ID: 202.",
+    "isbn": null,
+    "category": "History",
+    "shelf_location": null
+  },
+  {
+    "title": "Uncle Tom's Cabin",
+    "author": "Stowe, Harriet Beecher, 1811-1896",
+    "publisher": null,
+    "publication_year": null,
+    "description": "English-language public-domain catalogue record from Project Gutenberg. Catalogue ID: 203.",
+    "isbn": null,
+    "category": "Fiction",
+    "shelf_location": null
+  },
+  {
+    "title": "The innocence of Father Brown",
+    "author": "Chesterton, G. K. (Gilbert Keith), 1874-1936",
+    "publisher": null,
+    "publication_year": null,
+    "description": "English-language public-domain catalogue record from Project Gutenberg. Catalogue ID: 204.",
+    "isbn": null,
+    "category": "Fiction",
+    "shelf_location": null
+  },
+  {
+    "title": "Walden, and On The Duty Of Civil Disobedience",
+    "author": "Thoreau, Henry David, 1817-1862",
+    "publisher": null,
+    "publication_year": null,
+    "description": "English-language public-domain catalogue record from Project Gutenberg. Catalogue ID: 205.",
+    "isbn": null,
+    "category": "History",
+    "shelf_location": null
+  },
+  {
+    "title": "The Martin Luther King, Jr. Day, 1995, Memorial Issue",
+    "author": "Various",
+    "publisher": null,
+    "publication_year": null,
+    "description": "English-language public-domain catalogue record from Project Gutenberg. Catalogue ID: 206.",
+    "isbn": null,
+    "category": "History",
+    "shelf_location": null
+  },
+  {
+    "title": "The Spell of the Yukon and Other Verses",
+    "author": "Service, Robert W. (Robert William), 1874-1958",
+    "publisher": null,
+    "publication_year": null,
+    "description": "English-language public-domain catalogue record from Project Gutenberg. Catalogue ID: 207.",
+    "isbn": null,
+    "category": "Literature",
+    "shelf_location": null
+  },
+  {
+    "title": "Daisy Miller: A Study",
+    "author": "James, Henry, 1843-1916",
+    "publisher": null,
+    "publication_year": null,
+    "description": "English-language public-domain catalogue record from Project Gutenberg. Catalogue ID: 208.",
+    "isbn": null,
+    "category": "Fiction",
+    "shelf_location": null
+  },
+  {
+    "title": "The Turn of the Screw",
+    "author": "James, Henry, 1843-1916",
+    "publisher": null,
+    "publication_year": null,
+    "description": "English-language public-domain catalogue record from Project Gutenberg. Catalogue ID: 209.",
+    "isbn": null,
+    "category": "Fiction",
+    "shelf_location": null
+  },
+  {
+    "title": "An International Episode",
+    "author": "James, Henry, 1843-1916",
+    "publisher": null,
+    "publication_year": null,
+    "description": "English-language public-domain catalogue record from Project Gutenberg. Catalogue ID: 210.",
+    "isbn": null,
+    "category": "Fiction",
+    "shelf_location": null
+  },
+  {
+    "title": "The Aspern Papers",
+    "author": "James, Henry, 1843-1916",
+    "publisher": null,
+    "publication_year": null,
+    "description": "English-language public-domain catalogue record from Project Gutenberg. Catalogue ID: 211.",
+    "isbn": null,
+    "category": "Fiction",
+    "shelf_location": null
+  },
+  {
+    "title": "A List of Factorial Math Constants",
+    "author": "Unknown",
+    "publisher": null,
+    "publication_year": null,
+    "description": "English-language public-domain catalogue record from Project Gutenberg. Catalogue ID: 212.",
+    "isbn": null,
+    "category": "Mathematics",
+    "shelf_location": null
+  },
+  {
+    "title": "The Man from Snowy River",
+    "author": "Paterson, A. B. (Andrew Barton), 1864-1941",
+    "publisher": null,
+    "publication_year": null,
+    "description": "English-language public-domain catalogue record from Project Gutenberg. Catalogue ID: 213.",
+    "isbn": null,
+    "category": "Literature",
+    "shelf_location": null
+  },
+  {
+    "title": "In the Days When the World Was Wide, and Other Verses",
+    "author": "Lawson, Henry, 1867-1922",
+    "publisher": null,
+    "publication_year": null,
+    "description": "English-language public-domain catalogue record from Project Gutenberg. Catalogue ID: 214.",
+    "isbn": null,
+    "category": "Literature",
+    "shelf_location": null
+  },
+  {
+    "title": "The call of the wild",
+    "author": "London, Jack, 1876-1916",
+    "publisher": null,
+    "publication_year": null,
+    "description": "English-language public-domain catalogue record from Project Gutenberg. Catalogue ID: 215.",
+    "isbn": null,
+    "category": "Fiction",
+    "shelf_location": null
+  },
+  {
+    "title": "The Tao Teh King, or the Tao and its Characteristics",
+    "author": "Laozi; Legge, James, 1815-1897 [Translator]",
+    "publisher": null,
+    "publication_year": null,
+    "description": "English-language public-domain catalogue record from Project Gutenberg. Catalogue ID: 216.",
+    "isbn": null,
+    "category": "Philosophy",
+    "shelf_location": null
+  },
+  {
+    "title": "Sons and Lovers",
+    "author": "Lawrence, D. H. (David Herbert), 1885-1930",
+    "publisher": null,
+    "publication_year": null,
+    "description": "English-language public-domain catalogue record from Project Gutenberg. Catalogue ID: 217.",
+    "isbn": null,
+    "category": "Fiction",
+    "shelf_location": null
+  },
+  {
+    "title": "Heart of Darkness",
+    "author": "Conrad, Joseph, 1857-1924",
+    "publisher": null,
+    "publication_year": null,
+    "description": "English-language public-domain catalogue record from Project Gutenberg. Catalogue ID: 219.",
+    "isbn": null,
+    "category": "Fiction",
+    "shelf_location": null
+  },
+  {
+    "title": "The Secret Sharer",
+    "author": "Conrad, Joseph, 1857-1924",
+    "publisher": null,
+    "publication_year": null,
+    "description": "English-language public-domain catalogue record from Project Gutenberg. Catalogue ID: 220.",
+    "isbn": null,
+    "category": "Fiction",
+    "shelf_location": null
+  },
+  {
+    "title": "The Moon and Sixpence",
+    "author": "Maugham, W. Somerset (William Somerset), 1874-1965",
+    "publisher": null,
+    "publication_year": null,
+    "description": "English-language public-domain catalogue record from Project Gutenberg. Catalogue ID: 222.",
+    "isbn": null,
+    "category": "Fiction",
+    "shelf_location": null
+  },
+  {
+    "title": "The wisdom of Father Brown",
+    "author": "Chesterton, G. K. (Gilbert Keith), 1874-1936",
+    "publisher": null,
+    "publication_year": null,
+    "description": "English-language public-domain catalogue record from Project Gutenberg. Catalogue ID: 223.",
+    "isbn": null,
+    "category": "Fiction",
+    "shelf_location": null
+  },
+  {
+    "title": "A pair of blue eyes",
+    "author": "Hardy, Thomas, 1840-1928",
+    "publisher": null,
+    "publication_year": null,
+    "description": "English-language public-domain catalogue record from Project Gutenberg. Catalogue ID: 224.",
+    "isbn": null,
+    "category": "Fiction",
+    "shelf_location": null
+  },
+  {
+    "title": "At the Back of the North Wind",
+    "author": "MacDonald, George, 1824-1905",
+    "publisher": null,
+    "publication_year": null,
+    "description": "English-language public-domain catalogue record from Project Gutenberg. Catalogue ID: 225.",
+    "isbn": null,
+    "category": "Literature",
+    "shelf_location": null
+  },
+  {
+    "title": "The Aeneid",
+    "author": "Virgil, 71 BCE-20 BCE; Dryden, John, 1631-1700 [Translator]",
+    "publisher": null,
+    "publication_year": null,
+    "description": "English-language public-domain catalogue record from Project Gutenberg. Catalogue ID: 228.",
+    "isbn": null,
+    "category": "Literature",
+    "shelf_location": null
+  },
+  {
+    "title": "The Bucolics and Eclogues",
+    "author": "Virgil, 71 BCE-20 BCE",
+    "publisher": null,
+    "publication_year": null,
+    "description": "English-language public-domain catalogue record from Project Gutenberg. Catalogue ID: 230.",
+    "isbn": null,
+    "category": "Literature",
+    "shelf_location": null
+  },
+  {
+    "title": "The Georgics",
+    "author": "Virgil, 71 BCE-20 BCE; Rhoades, James, 1841-1923 [Translator]",
+    "publisher": null,
+    "publication_year": null,
+    "description": "English-language public-domain catalogue record from Project Gutenberg. Catalogue ID: 232.",
+    "isbn": null,
+    "category": "Literature",
+    "shelf_location": null
+  },
+  {
+    "title": "Sister Carrie: A Novel",
+    "author": "Dreiser, Theodore, 1871-1945",
+    "publisher": null,
+    "publication_year": null,
+    "description": "English-language public-domain catalogue record from Project Gutenberg. Catalogue ID: 233.",
+    "isbn": null,
+    "category": "Fiction",
+    "shelf_location": null
+  },
+  {
+    "title": "Child Christopher and Goldilind the Fair",
+    "author": "Morris, William, 1834-1896",
+    "publisher": null,
+    "publication_year": null,
+    "description": "English-language public-domain catalogue record from Project Gutenberg. Catalogue ID: 234.",
+    "isbn": null,
+    "category": "Fiction",
+    "shelf_location": null
+  },
+  {
+    "title": "William Gibson Interviewed",
+    "author": "Salza, Giuseppe",
+    "publisher": null,
+    "publication_year": null,
+    "description": "English-language public-domain catalogue record from Project Gutenberg. Catalogue ID: 235.",
+    "isbn": null,
+    "category": "Literature",
+    "shelf_location": null
+  },
+  {
+    "title": "The Jungle Book",
+    "author": "Kipling, Rudyard, 1865-1936",
+    "publisher": null,
+    "publication_year": null,
+    "description": "English-language public-domain catalogue record from Project Gutenberg. Catalogue ID: 236.",
+    "isbn": null,
+    "category": "History",
+    "shelf_location": null
+  },
+  {
+    "title": "Dear Enemy",
+    "author": "Webster, Jean, 1876-1916",
+    "publisher": null,
+    "publication_year": null,
+    "description": "English-language public-domain catalogue record from Project Gutenberg. Catalogue ID: 238.",
+    "isbn": null,
+    "category": "Fiction",
+    "shelf_location": null
+  },
+  {
+    "title": "Stories from the Old Attic",
+    "author": "Harris, Robert A. (Robert Alan), 1950-",
+    "publisher": null,
+    "publication_year": null,
+    "description": "English-language public-domain catalogue record from Project Gutenberg. Catalogue ID: 240.",
+    "isbn": null,
+    "category": "Fiction",
+    "shelf_location": null
+  },
+  {
+    "title": "Clotelle; Or, The Colored Heroine, a tale of the Southern States; Or, The President's Daughter",
+    "author": "Brown, William Wells, 1814?-1884",
+    "publisher": null,
+    "publication_year": null,
+    "description": "English-language public-domain catalogue record from Project Gutenberg. Catalogue ID: 241.",
+    "isbn": null,
+    "category": "Fiction",
+    "shelf_location": null
+  },
+  {
+    "title": "My Ántonia",
+    "author": "Cather, Willa, 1873-1947",
+    "publisher": null,
+    "publication_year": null,
+    "description": "English-language public-domain catalogue record from Project Gutenberg. Catalogue ID: 242.",
+    "isbn": null,
+    "category": "Fiction",
+    "shelf_location": null
+  },
+  {
+    "title": "The forged coupon, and other stories",
+    "author": "Tolstoy, Leo, graf, 1828-1910; Wright, C. T. Hagberg (Charles Theodore Hagberg), 1862-1940 [Editor]",
+    "publisher": null,
+    "publication_year": null,
+    "description": "English-language public-domain catalogue record from Project Gutenberg. Catalogue ID: 243.",
+    "isbn": null,
+    "category": "Fiction",
+    "shelf_location": null
+  },
+  {
+    "title": "A Study in Scarlet",
+    "author": "Doyle, Arthur Conan, 1859-1930",
+    "publisher": null,
+    "publication_year": null,
+    "description": "English-language public-domain catalogue record from Project Gutenberg. Catalogue ID: 244.",
+    "isbn": null,
+    "category": "Fiction",
+    "shelf_location": null
+  },
+  {
+    "title": "Life on the Mississippi",
+    "author": "Twain, Mark, 1835-1910",
+    "publisher": null,
+    "publication_year": null,
+    "description": "English-language public-domain catalogue record from Project Gutenberg. Catalogue ID: 245.",
+    "isbn": null,
+    "category": "Biography and Autobiography",
+    "shelf_location": null
+  },
+  {
+    "title": "The Rubaiyat of Omar Khayyam",
+    "author": "Omar Khayyam, 1048-1122; FitzGerald, Edward, 1809-1883 [Translator]",
+    "publisher": null,
+    "publication_year": null,
+    "description": "English-language public-domain catalogue record from Project Gutenberg. Catalogue ID: 246.",
+    "isbn": null,
+    "category": "Literature",
+    "shelf_location": null
+  },
+  {
+    "title": "Webster's Unabridged Dictionary (1st 100 Pages)",
+    "author": "Webster, Noah, 1758-1843",
+    "publisher": null,
+    "publication_year": null,
+    "description": "English-language public-domain catalogue record from Project Gutenberg. Catalogue ID: 247.",
+    "isbn": null,
+    "category": "Literature",
+    "shelf_location": null
+  },
+  {
+    "title": "Webster's Unabridged Dictionary (2nd 100 Pages)",
+    "author": "Webster, Noah, 1758-1843",
+    "publisher": null,
+    "publication_year": null,
+    "description": "English-language public-domain catalogue record from Project Gutenberg. Catalogue ID: 248.",
+    "isbn": null,
+    "category": "Literature",
+    "shelf_location": null
+  },
+  {
+    "title": "A Brief History of the Internet\r\nThe Bright Side: The Dark Side",
+    "author": "Hart, Michael, 1947-2011; Fuller, Maxwell",
+    "publisher": null,
+    "publication_year": null,
+    "description": "English-language public-domain catalogue record from Project Gutenberg. Catalogue ID: 250.",
+    "isbn": null,
+    "category": "Computer Science",
+    "shelf_location": null
+  },
+  {
+    "title": "1995 United States Congressional Address Book",
+    "author": "United States",
+    "publisher": null,
+    "publication_year": null,
+    "description": "English-language public-domain catalogue record from Project Gutenberg. Catalogue ID: 251.",
+    "isbn": null,
+    "category": "Literature",
+    "shelf_location": null
+  },
+  {
+    "title": "Copyright Law of the United States of America\r\nContained in Title 17 of the United States Code",
+    "author": "Library of Congress. Copyright Office; United States",
+    "publisher": null,
+    "publication_year": null,
+    "description": "English-language public-domain catalogue record from Project Gutenberg. Catalogue ID: 252.",
+    "isbn": null,
+    "category": "Literature",
+    "shelf_location": null
+  },
+  {
+    "title": "The Universal Copyright Convention (1988)",
+    "author": "Coalition for Networked Information",
+    "publisher": null,
+    "publication_year": null,
+    "description": "English-language public-domain catalogue record from Project Gutenberg. Catalogue ID: 253.",
+    "isbn": null,
+    "category": "Literature",
+    "shelf_location": null
+  },
+  {
+    "title": "The Second Story of Meno\r\nA Continuation of Socrates' Dialogue with Meno in Which the Boy Proves Root 2 is Irrational",
+    "author": "Unknown",
+    "publisher": null,
+    "publication_year": null,
+    "description": "English-language public-domain catalogue record from Project Gutenberg. Catalogue ID: 254.",
+    "isbn": null,
+    "category": "Mathematics",
+    "shelf_location": null
+  },
+  {
+    "title": "QREAD, Etext Reader for Windows",
+    "author": "Scavezze, Dan",
+    "publisher": null,
+    "publication_year": null,
+    "description": "English-language public-domain catalogue record from Project Gutenberg. Catalogue ID: 255.",
+    "isbn": null,
+    "category": "Literature",
+    "shelf_location": null
+  },
+  {
+    "title": "Troilus and Criseyde",
+    "author": "Chaucer, Geoffrey, 1343?-1400",
+    "publisher": null,
+    "publication_year": null,
+    "description": "English-language public-domain catalogue record from Project Gutenberg. Catalogue ID: 257.",
+    "isbn": null,
+    "category": "Literature",
+    "shelf_location": null
+  },
+  {
+    "title": "Poems by Adam Lindsay Gordon",
+    "author": "Gordon, Adam Lindsay, 1833-1870; Clarke, Marcus Andrew Hislop, 1846-1881 [Editor]",
+    "publisher": null,
+    "publication_year": null,
+    "description": "English-language public-domain catalogue record from Project Gutenberg. Catalogue ID: 258.",
+    "isbn": null,
+    "category": "Literature",
+    "shelf_location": null
+  },
+  {
+    "title": "Ballads of a Cheechako",
+    "author": "Service, Robert W. (Robert William), 1874-1958",
+    "publisher": null,
+    "publication_year": null,
+    "description": "English-language public-domain catalogue record from Project Gutenberg. Catalogue ID: 259.",
+    "isbn": null,
+    "category": "Literature",
+    "shelf_location": null
+  },
+  {
+    "title": "An Introduction to the Study of Robert Browning's Poetry",
+    "author": "Browning, Robert, 1812-1889; Corson, Hiram, 1828-1911",
+    "publisher": null,
+    "publication_year": null,
+    "description": "English-language public-domain catalogue record from Project Gutenberg. Catalogue ID: 260.",
+    "isbn": null,
+    "category": "Literature",
+    "shelf_location": null
+  },
+  {
+    "title": "A Dome of Many-Coloured Glass",
+    "author": "Lowell, Amy, 1874-1925",
+    "publisher": null,
+    "publication_year": null,
+    "description": "English-language public-domain catalogue record from Project Gutenberg. Catalogue ID: 261.",
+    "isbn": null,
+    "category": "Literature",
+    "shelf_location": null
+  },
+  {
+    "title": "The Collected Poems of Rupert Brooke",
+    "author": "Brooke, Rupert, 1887-1915; Woodberry, George Edward, 1855-1930 [Author of introduction, etc.]; Lavington, Margaret [Contributor]",
+    "publisher": null,
+    "publication_year": null,
+    "description": "English-language public-domain catalogue record from Project Gutenberg. Catalogue ID: 262.",
+    "isbn": null,
+    "category": "Biography and Autobiography",
+    "shelf_location": null
+  },
+  {
+    "title": "Trees, and Other Poems",
+    "author": "Kilmer, Joyce, 1886-1918",
+    "publisher": null,
+    "publication_year": null,
+    "description": "English-language public-domain catalogue record from Project Gutenberg. Catalogue ID: 263.",
+    "isbn": null,
+    "category": "Literature",
+    "shelf_location": null
+  },
+  {
+    "title": "Main Street, and Other Poems",
+    "author": "Kilmer, Joyce, 1886-1918",
+    "publisher": null,
+    "publication_year": null,
+    "description": "English-language public-domain catalogue record from Project Gutenberg. Catalogue ID: 264.",
+    "isbn": null,
+    "category": "Literature",
+    "shelf_location": null
+  },
+  {
+    "title": "The Life and Death of Cormac the Skald",
+    "author": "Collingwood, W. G. (William Gershom), 1854-1932 [Translator]; Jón Stefánsson, 1862- [Translator]",
+    "publisher": null,
+    "publication_year": null,
+    "description": "English-language public-domain catalogue record from Project Gutenberg. Catalogue ID: 265.",
+    "isbn": null,
+    "category": "Fiction",
+    "shelf_location": null
+  },
+  {
+    "title": "Confessio Amantis; Or, Tales of the Seven Deadly Sins",
+    "author": "Gower, John, 1325?-1408; Macaulay, G. C. (George Campbell), 1852-1915 [Editor]",
+    "publisher": null,
+    "publication_year": null,
+    "description": "English-language public-domain catalogue record from Project Gutenberg. Catalogue ID: 266.",
+    "isbn": null,
+    "category": "Philosophy",
+    "shelf_location": null
+  },
+  {
+    "title": "The Touchstone",
+    "author": "Wharton, Edith, 1862-1937",
+    "publisher": null,
+    "publication_year": null,
+    "description": "English-language public-domain catalogue record from Project Gutenberg. Catalogue ID: 267.",
+    "isbn": null,
+    "category": "Fiction",
+    "shelf_location": null
+  },
+  {
+    "title": "The Octopus : A Story of California",
+    "author": "Norris, Frank, 1870-1902",
+    "publisher": null,
+    "publication_year": null,
+    "description": "English-language public-domain catalogue record from Project Gutenberg. Catalogue ID: 268.",
+    "isbn": null,
+    "category": "Fiction",
+    "shelf_location": null
+  },
+  {
+    "title": "Beasts and Super-Beasts",
+    "author": "Saki, 1870-1916",
+    "publisher": null,
+    "publication_year": null,
+    "description": "English-language public-domain catalogue record from Project Gutenberg. Catalogue ID: 269.",
+    "isbn": null,
+    "category": "Fiction",
+    "shelf_location": null
+  },
+  {
+    "title": "Dream Days",
+    "author": "Grahame, Kenneth, 1859-1932",
+    "publisher": null,
+    "publication_year": null,
+    "description": "English-language public-domain catalogue record from Project Gutenberg. Catalogue ID: 270.",
+    "isbn": null,
+    "category": "Fiction",
+    "shelf_location": null
+  },
+  {
+    "title": "Black Beauty",
+    "author": "Sewell, Anna, 1820-1878",
+    "publisher": null,
+    "publication_year": null,
+    "description": "English-language public-domain catalogue record from Project Gutenberg. Catalogue ID: 271.",
+    "isbn": null,
+    "category": "History",
+    "shelf_location": null
+  },
+  {
+    "title": "An Open Letter on Translating",
+    "author": "Luther, Martin, 1483-1546; Mann, Gary [Translator]",
+    "publisher": null,
+    "publication_year": null,
+    "description": "English-language public-domain catalogue record from Project Gutenberg. Catalogue ID: 272.",
+    "isbn": null,
+    "category": "Literature",
+    "shelf_location": null
+  },
+  {
+    "title": "The Smalcald Articles",
+    "author": "Luther, Martin, 1483-1546; Bente, F. (Friedrich), 1858-1930 [Translator]; Dau, W. H. T. (William Herman Theodore), 1864-1944 [Translator]",
+    "publisher": null,
+    "publication_year": null,
+    "description": "English-language public-domain catalogue record from Project Gutenberg. Catalogue ID: 273.",
+    "isbn": null,
+    "category": "Literature",
+    "shelf_location": null
+  },
+  {
+    "title": "Disputation of Doctor Martin Luther on the Power and Efficacy of Indulgences",
+    "author": "Luther, Martin, 1483-1546",
+    "publisher": null,
+    "publication_year": null,
+    "description": "English-language public-domain catalogue record from Project Gutenberg. Catalogue ID: 274.",
+    "isbn": null,
+    "category": "Literature",
+    "shelf_location": null
+  },
+  {
+    "title": "The Augsburg Confession\r\nThe confession of faith, which was submitted to His Imperial Majesty Charles V at the diet of Augsburg in the year 1530",
+    "author": "Melanchthon, Philipp, 1497-1560",
+    "publisher": null,
+    "publication_year": null,
+    "description": "English-language public-domain catalogue record from Project Gutenberg. Catalogue ID: 275.",
+    "isbn": null,
+    "category": "Literature",
+    "shelf_location": null
+  },
+  {
+    "title": "Franz Haydn's 104th Symphony [1794-5]\nMIDI file",
+    "author": "Haydn, Joseph, 1732-1809",
+    "publisher": null,
+    "publication_year": null,
+    "description": "English-language public-domain catalogue record from Project Gutenberg. Catalogue ID: 276.",
+    "isbn": null,
+    "category": "Literature",
+    "shelf_location": null
+  },
+  {
+    "title": "Trinity Site",
+    "author": "National Atomic Museum (U.S.)",
+    "publisher": null,
+    "publication_year": null,
+    "description": "English-language public-domain catalogue record from Project Gutenberg. Catalogue ID: 277.",
+    "isbn": null,
+    "category": "History",
+    "shelf_location": null
+  },
+  {
+    "title": "Trinity Site: 1945-1995.\r\nA National Historic Landmark, White Sands Missile Range, New Mexico",
+    "author": "White Sands Missile Range (N.M.). Public Affairs Office",
+    "publisher": null,
+    "publication_year": null,
+    "description": "English-language public-domain catalogue record from Project Gutenberg. Catalogue ID: 278.",
+    "isbn": null,
+    "category": "History",
+    "shelf_location": null
+  },
+  {
+    "title": "Photos and Maps of Trinity (Atomic Test) Site",
+    "author": "White Sands Missile Range (N.M.). Public Affairs Office [Contributor]",
+    "publisher": null,
+    "publication_year": null,
+    "description": "English-language public-domain catalogue record from Project Gutenberg. Catalogue ID: 279.",
+    "isbn": null,
+    "category": "History",
+    "shelf_location": null
+  },
+  {
+    "title": "Records of a Family of Engineers",
+    "author": "Stevenson, Robert Louis, 1850-1894",
+    "publisher": null,
+    "publication_year": null,
+    "description": "English-language public-domain catalogue record from Project Gutenberg. Catalogue ID: 280.",
+    "isbn": null,
+    "category": "Biography and Autobiography",
+    "shelf_location": null
+  },
+  {
+    "title": "Father Damien: An Open Letter to the Reverend Dr. Hyde of Honolulu",
+    "author": "Stevenson, Robert Louis, 1850-1894",
+    "publisher": null,
+    "publication_year": null,
+    "description": "English-language public-domain catalogue record from Project Gutenberg. Catalogue ID: 281.",
+    "isbn": null,
+    "category": "Literature",
+    "shelf_location": null
+  },
+  {
+    "title": "Eothen; Or, Traces of Travel Brought Home from the East",
+    "author": "Kinglake, Alexander William, 1809-1891",
+    "publisher": null,
+    "publication_year": null,
+    "description": "English-language public-domain catalogue record from Project Gutenberg. Catalogue ID: 282.",
+    "isbn": null,
+    "category": "Literature",
+    "shelf_location": null
+  },
+  {
+    "title": "The Reef",
+    "author": "Wharton, Edith, 1862-1937",
+    "publisher": null,
+    "publication_year": null,
+    "description": "English-language public-domain catalogue record from Project Gutenberg. Catalogue ID: 283.",
+    "isbn": null,
+    "category": "Fiction",
+    "shelf_location": null
+  },
+  {
+    "title": "The House of Mirth",
+    "author": "Wharton, Edith, 1862-1937",
+    "publisher": null,
+    "publication_year": null,
+    "description": "English-language public-domain catalogue record from Project Gutenberg. Catalogue ID: 284.",
+    "isbn": null,
+    "category": "Fiction",
+    "shelf_location": null
+  },
+  {
+    "title": "The Lost Continent",
+    "author": "Hyne, C. J. Cutcliffe, 1866-1944",
+    "publisher": null,
+    "publication_year": null,
+    "description": "English-language public-domain catalogue record from Project Gutenberg. Catalogue ID: 285.",
+    "isbn": null,
+    "category": "Science and Technology",
+    "shelf_location": null
+  },
+  {
+    "title": "Laddie: A True Blue Story",
+    "author": "Stratton-Porter, Gene, 1863-1924",
+    "publisher": null,
+    "publication_year": null,
+    "description": "English-language public-domain catalogue record from Project Gutenberg. Catalogue ID: 286.",
+    "isbn": null,
+    "category": "Fiction",
+    "shelf_location": null
+  },
+  {
+    "title": "Remember the Alamo",
+    "author": "Barr, Amelia E., 1831-1919",
+    "publisher": null,
+    "publication_year": null,
+    "description": "English-language public-domain catalogue record from Project Gutenberg. Catalogue ID: 287.",
+    "isbn": null,
+    "category": "History",
+    "shelf_location": null
+  },
+  {
+    "title": "The Certain Hour (Dizain des Poëtes)",
+    "author": "Cabell, James Branch, 1879-1958",
+    "publisher": null,
+    "publication_year": null,
+    "description": "English-language public-domain catalogue record from Project Gutenberg. Catalogue ID: 288.",
+    "isbn": null,
+    "category": "Fiction",
+    "shelf_location": null
+  },
+  {
+    "title": "The Wind in the Willows",
+    "author": "Grahame, Kenneth, 1859-1932",
+    "publisher": null,
+    "publication_year": null,
+    "description": "English-language public-domain catalogue record from Project Gutenberg. Catalogue ID: 289.",
+    "isbn": null,
+    "category": "Fiction",
+    "shelf_location": null
+  },
+  {
+    "title": "The Stark Munro Letters\r\nBeing series of twelve letters written by J. Stark Munro, M.B., to his friend and former fellow-student, Herbert Swanborough, of Lowell, Massachusetts, during the years 1881-1884",
+    "author": "Doyle, Arthur Conan, 1859-1930",
+    "publisher": null,
+    "publication_year": null,
+    "description": "English-language public-domain catalogue record from Project Gutenberg. Catalogue ID: 290.",
+    "isbn": null,
+    "category": "Fiction",
+    "shelf_location": null
+  },
+  {
+    "title": "The Golden Age",
+    "author": "Grahame, Kenneth, 1859-1932",
+    "publisher": null,
+    "publication_year": null,
+    "description": "English-language public-domain catalogue record from Project Gutenberg. Catalogue ID: 291.",
+    "isbn": null,
+    "category": "Fiction",
+    "shelf_location": null
+  },
+  {
+    "title": "Beauty and the Beast, and Tales of Home",
+    "author": "Taylor, Bayard, 1825-1878",
+    "publisher": null,
+    "publication_year": null,
+    "description": "English-language public-domain catalogue record from Project Gutenberg. Catalogue ID: 292.",
+    "isbn": null,
+    "category": "Fiction",
+    "shelf_location": null
+  },
+  {
+    "title": "Paul Prescott's Charge",
+    "author": "Alger, Horatio, Jr., 1832-1899",
+    "publisher": null,
+    "publication_year": null,
+    "description": "English-language public-domain catalogue record from Project Gutenberg. Catalogue ID: 293.",
+    "isbn": null,
+    "category": "History",
+    "shelf_location": null
+  },
+  {
+    "title": "The Captain of the Polestar, and Other Tales",
+    "author": "Doyle, Arthur Conan, 1859-1930",
+    "publisher": null,
+    "publication_year": null,
+    "description": "English-language public-domain catalogue record from Project Gutenberg. Catalogue ID: 294.",
+    "isbn": null,
+    "category": "Fiction",
+    "shelf_location": null
+  },
+  {
+    "title": "The Early Short Fiction of Edith Wharton — Part 1",
+    "author": "Wharton, Edith, 1862-1937",
+    "publisher": null,
+    "publication_year": null,
+    "description": "English-language public-domain catalogue record from Project Gutenberg. Catalogue ID: 295.",
+    "isbn": null,
+    "category": "Fiction",
+    "shelf_location": null
+  },
+  {
+    "title": "The Cash Boy",
+    "author": "Alger, Horatio, Jr., 1832-1899",
+    "publisher": null,
+    "publication_year": null,
+    "description": "English-language public-domain catalogue record from Project Gutenberg. Catalogue ID: 296.",
+    "isbn": null,
+    "category": "Fiction",
+    "shelf_location": null
+  },
+  {
+    "title": "The Flirt",
+    "author": "Tarkington, Booth, 1869-1946",
+    "publisher": null,
+    "publication_year": null,
+    "description": "English-language public-domain catalogue record from Project Gutenberg. Catalogue ID: 297.",
+    "isbn": null,
+    "category": "Fiction",
+    "shelf_location": null
+  },
+  {
+    "title": "The Market-Place",
+    "author": "Frederic, Harold, 1856-1898",
+    "publisher": null,
+    "publication_year": null,
+    "description": "English-language public-domain catalogue record from Project Gutenberg. Catalogue ID: 298.",
+    "isbn": null,
+    "category": "Fiction",
+    "shelf_location": null
+  },
+  {
+    "title": "Tales from Two Hemispheres",
+    "author": "Boyesen, Hjalmar Hjorth, 1848-1895",
+    "publisher": null,
+    "publication_year": null,
+    "description": "English-language public-domain catalogue record from Project Gutenberg. Catalogue ID: 299.",
+    "isbn": null,
+    "category": "Fiction",
+    "shelf_location": null
+  },
+  {
+    "title": "United States Declaration of Independence",
+    "author": "Jefferson, Thomas, 1743-1826",
+    "publisher": null,
+    "publication_year": null,
+    "description": "English-language public-domain catalogue record from Project Gutenberg. Catalogue ID: 300.",
+    "isbn": null,
+    "category": "History",
+    "shelf_location": null
+  },
+  {
+    "title": "The Ballad of Reading Gaol",
+    "author": "Wilde, Oscar, 1854-1900",
+    "publisher": null,
+    "publication_year": null,
+    "description": "English-language public-domain catalogue record from Project Gutenberg. Catalogue ID: 301.",
+    "isbn": null,
+    "category": "Literature",
+    "shelf_location": null
+  },
+  {
+    "title": "The Fibonacci Number Series",
+    "author": "Husted, Michael",
+    "publisher": null,
+    "publication_year": null,
+    "description": "English-language public-domain catalogue record from Project Gutenberg. Catalogue ID: 302.",
+    "isbn": null,
+    "category": "Mathematics",
+    "shelf_location": null
+  },
+  {
+    "title": "HomeBrew HomePages Put YOU on the World Wide Web",
+    "author": "Anonymous",
+    "publisher": null,
+    "publication_year": null,
+    "description": "English-language public-domain catalogue record from Project Gutenberg. Catalogue ID: 303.",
+    "isbn": null,
+    "category": "Literature",
+    "shelf_location": null
+  },
+  {
+    "title": "Rio Grande's Last Race, and Other Verses",
+    "author": "Paterson, A. B. (Andrew Barton), 1864-1941",
+    "publisher": null,
+    "publication_year": null,
+    "description": "English-language public-domain catalogue record from Project Gutenberg. Catalogue ID: 304.",
+    "isbn": null,
+    "category": "Literature",
+    "shelf_location": null
+  },
+  {
+    "title": "The Count's Millions",
+    "author": "Gaboriau, Emile, 1832-1873",
+    "publisher": null,
+    "publication_year": null,
+    "description": "English-language public-domain catalogue record from Project Gutenberg. Catalogue ID: 305.",
+    "isbn": null,
+    "category": "Fiction",
+    "shelf_location": null
+  },
+  {
+    "title": "The Early Short Fiction of Edith Wharton — Part 2",
+    "author": "Wharton, Edith, 1862-1937",
+    "publisher": null,
+    "publication_year": null,
+    "description": "English-language public-domain catalogue record from Project Gutenberg. Catalogue ID: 306.",
+    "isbn": null,
+    "category": "Fiction",
+    "shelf_location": null
+  },
+  {
+    "title": "Three Elephant Power, and Other Stories",
+    "author": "Paterson, A. B. (Andrew Barton), 1864-1941",
+    "publisher": null,
+    "publication_year": null,
+    "description": "English-language public-domain catalogue record from Project Gutenberg. Catalogue ID: 307.",
+    "isbn": null,
+    "category": "Fiction",
+    "shelf_location": null
+  },
+  {
+    "title": "Three men in a boat (to say nothing of the dog)",
+    "author": "Jerome, Jerome K. (Jerome Klapka), 1859-1927",
+    "publisher": null,
+    "publication_year": null,
+    "description": "English-language public-domain catalogue record from Project Gutenberg. Catalogue ID: 308.",
+    "isbn": null,
+    "category": "Fiction",
+    "shelf_location": null
+  },
+  {
+    "title": "Rhymes of a Rolling Stone",
+    "author": "Service, Robert W. (Robert William), 1874-1958",
+    "publisher": null,
+    "publication_year": null,
+    "description": "English-language public-domain catalogue record from Project Gutenberg. Catalogue ID: 309.",
+    "isbn": null,
+    "category": "Literature",
+    "shelf_location": null
+  },
+  {
+    "title": "Before Adam",
+    "author": "London, Jack, 1876-1916",
+    "publisher": null,
+    "publication_year": null,
+    "description": "English-language public-domain catalogue record from Project Gutenberg. Catalogue ID: 310.",
+    "isbn": null,
+    "category": "Fiction",
+    "shelf_location": null
+  },
+  {
+    "title": "Bunner Sisters",
+    "author": "Wharton, Edith, 1862-1937",
+    "publisher": null,
+    "publication_year": null,
+    "description": "English-language public-domain catalogue record from Project Gutenberg. Catalogue ID: 311.",
+    "isbn": null,
+    "category": "Fiction",
+    "shelf_location": null
+  },
+  {
+    "title": "Young Adventure: A Book of Poems",
+    "author": "Benét, Stephen Vincent, 1898-1943",
+    "publisher": null,
+    "publication_year": null,
+    "description": "English-language public-domain catalogue record from Project Gutenberg. Catalogue ID: 312.",
+    "isbn": null,
+    "category": "Literature",
+    "shelf_location": null
+  },
+  {
+    "title": "Children of the Night",
+    "author": "Robinson, Edwin Arlington, 1869-1935",
+    "publisher": null,
+    "publication_year": null,
+    "description": "English-language public-domain catalogue record from Project Gutenberg. Catalogue ID: 313.",
+    "isbn": null,
+    "category": "Literature",
+    "shelf_location": null
+  },
+  {
+    "title": "Guide to Life and Literature of the Southwest, with a Few Observations",
+    "author": "Dobie, J. Frank (James Frank), 1888-1964",
+    "publisher": null,
+    "publication_year": null,
+    "description": "English-language public-domain catalogue record from Project Gutenberg. Catalogue ID: 314.",
+    "isbn": null,
+    "category": "Literature",
+    "shelf_location": null
+  },
+  {
+    "title": "Rhymes of a Red Cross Man",
+    "author": "Service, Robert W. (Robert William), 1874-1958",
+    "publisher": null,
+    "publication_year": null,
+    "description": "English-language public-domain catalogue record from Project Gutenberg. Catalogue ID: 315.",
+    "isbn": null,
+    "category": "Literature",
+    "shelf_location": null
+  },
+  {
+    "title": "The Golden Road",
+    "author": "Montgomery, L. M. (Lucy Maud), 1874-1942",
+    "publisher": null,
+    "publication_year": null,
+    "description": "English-language public-domain catalogue record from Project Gutenberg. Catalogue ID: 316.",
+    "isbn": null,
+    "category": "Fiction",
+    "shelf_location": null
+  },
+  {
+    "title": "The Culprit Fay, and Other Poems",
+    "author": "Drake, Joseph Rodman, 1795-1820",
+    "publisher": null,
+    "publication_year": null,
+    "description": "English-language public-domain catalogue record from Project Gutenberg. Catalogue ID: 317.",
+    "isbn": null,
+    "category": "Literature",
+    "shelf_location": null
+  },
+  {
+    "title": "John Barleycorn",
+    "author": "London, Jack, 1876-1916",
+    "publisher": null,
+    "publication_year": null,
+    "description": "English-language public-domain catalogue record from Project Gutenberg. Catalogue ID: 318.",
+    "isbn": null,
+    "category": "Biography and Autobiography",
+    "shelf_location": null
+  },
+  {
+    "title": "The Ways of Men",
+    "author": "Gregory, Eliot, 1854-1915",
+    "publisher": null,
+    "publication_year": null,
+    "description": "English-language public-domain catalogue record from Project Gutenberg. Catalogue ID: 319.",
+    "isbn": null,
+    "category": "Literature",
+    "shelf_location": null
+  },
+  {
+    "title": "Moran of the Lady Letty",
+    "author": "Norris, Frank, 1870-1902",
+    "publisher": null,
+    "publication_year": null,
+    "description": "English-language public-domain catalogue record from Project Gutenberg. Catalogue ID: 321.",
+    "isbn": null,
+    "category": "Fiction",
+    "shelf_location": null
+  },
+  {
+    "title": "St. Ives: Being the Adventures of a French Prisoner in England",
+    "author": "Stevenson, Robert Louis, 1850-1894",
+    "publisher": null,
+    "publication_year": null,
+    "description": "English-language public-domain catalogue record from Project Gutenberg. Catalogue ID: 322.",
+    "isbn": null,
+    "category": "Fiction",
+    "shelf_location": null
+  },
+  {
+    "title": "Verses 1889-1896",
+    "author": "Kipling, Rudyard, 1865-1936",
+    "publisher": null,
+    "publication_year": null,
+    "description": "English-language public-domain catalogue record from Project Gutenberg. Catalogue ID: 323.",
+    "isbn": null,
+    "category": "Literature",
+    "shelf_location": null
+  },
+  {
+    "title": "A Knight of the Cumberland",
+    "author": "Fox, John, Jr., 1862-1919",
+    "publisher": null,
+    "publication_year": null,
+    "description": "English-language public-domain catalogue record from Project Gutenberg. Catalogue ID: 324.",
+    "isbn": null,
+    "category": "History",
+    "shelf_location": null
+  },
+  {
+    "title": "Phantastes: A Faerie Romance for Men and Women",
+    "author": "MacDonald, George, 1824-1905",
+    "publisher": null,
+    "publication_year": null,
+    "description": "English-language public-domain catalogue record from Project Gutenberg. Catalogue ID: 325.",
+    "isbn": null,
+    "category": "Fiction",
+    "shelf_location": null
+  },
+  {
+    "title": "Steep Trails",
+    "author": "Muir, John, 1838-1914; Badè, William Frederic, 1871-1936 [Editor]",
+    "publisher": null,
+    "publication_year": null,
+    "description": "English-language public-domain catalogue record from Project Gutenberg. Catalogue ID: 326.",
+    "isbn": null,
+    "category": "Literature",
+    "shelf_location": null
+  },
+  {
+    "title": "The Princess Aline",
+    "author": "Davis, Richard Harding, 1864-1916",
+    "publisher": null,
+    "publication_year": null,
+    "description": "English-language public-domain catalogue record from Project Gutenberg. Catalogue ID: 327.",
+    "isbn": null,
+    "category": "Fiction",
+    "shelf_location": null
+  },
+  {
+    "title": "A Heap o' Livin'",
+    "author": "Guest, Edgar A. (Edgar Albert), 1881-1959",
+    "publisher": null,
+    "publication_year": null,
+    "description": "English-language public-domain catalogue record from Project Gutenberg. Catalogue ID: 328.",
+    "isbn": null,
+    "category": "Literature",
+    "shelf_location": null
+  },
+  {
+    "title": "Island Nights' Entertainments",
+    "author": "Stevenson, Robert Louis, 1850-1894",
+    "publisher": null,
+    "publication_year": null,
+    "description": "English-language public-domain catalogue record from Project Gutenberg. Catalogue ID: 329.",
+    "isbn": null,
+    "category": "Fiction",
+    "shelf_location": null
+  },
+  {
+    "title": "Where There's a Will",
+    "author": "Rinehart, Mary Roberts, 1876-1958",
+    "publisher": null,
+    "publication_year": null,
+    "description": "English-language public-domain catalogue record from Project Gutenberg. Catalogue ID: 330.",
+    "isbn": null,
+    "category": "Fiction",
+    "shelf_location": null
+  },
+  {
+    "title": "The Mucker",
+    "author": "Burroughs, Edgar Rice, 1875-1950",
+    "publisher": null,
+    "publication_year": null,
+    "description": "English-language public-domain catalogue record from Project Gutenberg. Catalogue ID: 331.",
+    "isbn": null,
+    "category": "Fiction",
+    "shelf_location": null
+  },
+  {
+    "title": "The Burial of the Guns",
+    "author": "Page, Thomas Nelson, 1853-1922",
+    "publisher": null,
+    "publication_year": null,
+    "description": "English-language public-domain catalogue record from Project Gutenberg. Catalogue ID: 332.",
+    "isbn": null,
+    "category": "Fiction",
+    "shelf_location": null
+  },
+  {
+    "title": "Robert Louis Stevenson",
+    "author": "Raleigh, Walter Alexander, Sir, 1861-1922",
+    "publisher": null,
+    "publication_year": null,
+    "description": "English-language public-domain catalogue record from Project Gutenberg. Catalogue ID: 333.",
+    "isbn": null,
+    "category": "Biography and Autobiography",
+    "shelf_location": null
+  },
+  {
+    "title": "Episodes in Van Bibber's Life",
+    "author": "Davis, Richard Harding, 1864-1916",
+    "publisher": null,
+    "publication_year": null,
+    "description": "English-language public-domain catalogue record from Project Gutenberg. Catalogue ID: 334.",
+    "isbn": null,
+    "category": "Fiction",
+    "shelf_location": null
+  },
+  {
+    "title": "Frances Waldeaux: A Novel",
+    "author": "Davis, Rebecca Harding, 1831-1910",
+    "publisher": null,
+    "publication_year": null,
+    "description": "English-language public-domain catalogue record from Project Gutenberg. Catalogue ID: 335.",
+    "isbn": null,
+    "category": "Fiction",
+    "shelf_location": null
+  },
+  {
+    "title": "Indian Heroes and Great Chieftains",
+    "author": "Eastman, Charles A., 1858-1939",
+    "publisher": null,
+    "publication_year": null,
+    "description": "English-language public-domain catalogue record from Project Gutenberg. Catalogue ID: 336.",
+    "isbn": null,
+    "category": "Biography and Autobiography",
+    "shelf_location": null
+  },
+  {
+    "title": "Indian Boyhood",
+    "author": "Eastman, Charles A., 1858-1939",
+    "publisher": null,
+    "publication_year": null,
+    "description": "English-language public-domain catalogue record from Project Gutenberg. Catalogue ID: 337.",
+    "isbn": null,
+    "category": "Biography and Autobiography",
+    "shelf_location": null
+  },
+  {
+    "title": "Old Indian Legends",
+    "author": "Zitkala-Sa, 1876-1938",
+    "publisher": null,
+    "publication_year": null,
+    "description": "English-language public-domain catalogue record from Project Gutenberg. Catalogue ID: 338.",
+    "isbn": null,
+    "category": "Literature",
+    "shelf_location": null
+  },
+  {
+    "title": "Old Indian Days",
+    "author": "Eastman, Charles A., 1858-1939",
+    "publisher": null,
+    "publication_year": null,
+    "description": "English-language public-domain catalogue record from Project Gutenberg. Catalogue ID: 339.",
+    "isbn": null,
+    "category": "Fiction",
+    "shelf_location": null
+  },
+  {
+    "title": "The Soul of the Indian: An Interpretation",
+    "author": "Eastman, Charles A., 1858-1939",
+    "publisher": null,
+    "publication_year": null,
+    "description": "English-language public-domain catalogue record from Project Gutenberg. Catalogue ID: 340.",
+    "isbn": null,
+    "category": "Philosophy",
+    "shelf_location": null
+  },
+  {
+    "title": "Myths and Legends of the Sioux",
+    "author": "McLaughlin, Marie L., 1842-",
+    "publisher": null,
+    "publication_year": null,
+    "description": "English-language public-domain catalogue record from Project Gutenberg. Catalogue ID: 341.",
+    "isbn": null,
+    "category": "Literature",
+    "shelf_location": null
+  },
+  {
+    "title": "Margaret Ogilvy",
+    "author": "Barrie, J. M. (James Matthew), 1860-1937",
+    "publisher": null,
+    "publication_year": null,
+    "description": "English-language public-domain catalogue record from Project Gutenberg. Catalogue ID: 342.",
+    "isbn": null,
+    "category": "Literature",
+    "shelf_location": null
+  },
+  {
+    "title": "Fables",
+    "author": "Stevenson, Robert Louis, 1850-1894",
+    "publisher": null,
+    "publication_year": null,
+    "description": "English-language public-domain catalogue record from Project Gutenberg. Catalogue ID: 343.",
+    "isbn": null,
+    "category": "Fiction",
+    "shelf_location": null
+  },
+  {
+    "title": "The Merry Men, and Other Tales and Fables",
+    "author": "Stevenson, Robert Louis, 1850-1894",
+    "publisher": null,
+    "publication_year": null,
+    "description": "English-language public-domain catalogue record from Project Gutenberg. Catalogue ID: 344.",
+    "isbn": null,
+    "category": "History",
+    "shelf_location": null
+  },
+  {
+    "title": "Dracula",
+    "author": "Stoker, Bram, 1847-1912",
+    "publisher": null,
+    "publication_year": null,
+    "description": "English-language public-domain catalogue record from Project Gutenberg. Catalogue ID: 345.",
+    "isbn": null,
+    "category": "Fiction",
+    "shelf_location": null
+  },
+  {
+    "title": "The Troll Garden, and Selected Stories",
+    "author": "Cather, Willa, 1873-1947",
+    "publisher": null,
+    "publication_year": null,
+    "description": "English-language public-domain catalogue record from Project Gutenberg. Catalogue ID: 346.",
+    "isbn": null,
+    "category": "Fiction",
+    "shelf_location": null
+  },
+  {
+    "title": "The Saga of Grettir the Strong: Grettir's Saga",
+    "author": "Unknown",
+    "publisher": null,
+    "publication_year": null,
+    "description": "English-language public-domain catalogue record from Project Gutenberg. Catalogue ID: 347.",
+    "isbn": null,
+    "category": "Fiction",
+    "shelf_location": null
+  },
+  {
+    "title": "Hesiod, the Homeric Hymns, and Homerica",
+    "author": "Hesiod; Evelyn-White, Hugh G. (Hugh Gerard), 1884-1924 [Translator]",
+    "publisher": null,
+    "publication_year": null,
+    "description": "English-language public-domain catalogue record from Project Gutenberg. Catalogue ID: 348.",
+    "isbn": null,
+    "category": "Literature",
+    "shelf_location": null
+  },
+  {
+    "title": "The Harvester",
+    "author": "Stratton-Porter, Gene, 1863-1924",
+    "publisher": null,
+    "publication_year": null,
+    "description": "English-language public-domain catalogue record from Project Gutenberg. Catalogue ID: 349.",
+    "isbn": null,
+    "category": "Fiction",
+    "shelf_location": null
+  },
+  {
+    "title": "Fanny Herself",
+    "author": "Ferber, Edna, 1885-1968",
+    "publisher": null,
+    "publication_year": null,
+    "description": "English-language public-domain catalogue record from Project Gutenberg. Catalogue ID: 350.",
+    "isbn": null,
+    "category": "Fiction",
+    "shelf_location": null
+  },
+  {
+    "title": "Of Human Bondage",
+    "author": "Maugham, W. Somerset (William Somerset), 1874-1965",
+    "publisher": null,
+    "publication_year": null,
+    "description": "English-language public-domain catalogue record from Project Gutenberg. Catalogue ID: 351.",
+    "isbn": null,
+    "category": "Fiction",
+    "shelf_location": null
+  },
+  {
+    "title": "Buttered Side Down: Stories",
+    "author": "Ferber, Edna, 1885-1968",
+    "publisher": null,
+    "publication_year": null,
+    "description": "English-language public-domain catalogue record from Project Gutenberg. Catalogue ID: 352.",
+    "isbn": null,
+    "category": "Fiction",
+    "shelf_location": null
+  },
+  {
+    "title": "In Flanders Fields, and Other Poems",
+    "author": "McCrae, John, 1872-1918; Macphail, Andrew, 1864-1938 [Contributor]",
+    "publisher": null,
+    "publication_year": null,
+    "description": "English-language public-domain catalogue record from Project Gutenberg. Catalogue ID: 353.",
+    "isbn": null,
+    "category": "Literature",
+    "shelf_location": null
+  },
+  {
+    "title": "The Story of a Pioneer",
+    "author": "Shaw, Anna Howard, 1847-1919; Jordan, Elizabeth Garver, 1867-1947",
+    "publisher": null,
+    "publication_year": null,
+    "description": "English-language public-domain catalogue record from Project Gutenberg. Catalogue ID: 354.",
+    "isbn": null,
+    "category": "Biography and Autobiography",
+    "shelf_location": null
+  },
+  {
+    "title": "The Parasite: A Story",
+    "author": "Doyle, Arthur Conan, 1859-1930",
+    "publisher": null,
+    "publication_year": null,
+    "description": "English-language public-domain catalogue record from Project Gutenberg. Catalogue ID: 355.",
+    "isbn": null,
+    "category": "Fiction",
+    "shelf_location": null
+  },
+  {
+    "title": "Beyond the City",
+    "author": "Doyle, Arthur Conan, 1859-1930",
+    "publisher": null,
+    "publication_year": null,
+    "description": "English-language public-domain catalogue record from Project Gutenberg. Catalogue ID: 356.",
+    "isbn": null,
+    "category": "Fiction",
+    "shelf_location": null
+  },
+  {
+    "title": "A Dream of John Ball; and, A King's Lesson",
+    "author": "Morris, William, 1834-1896",
+    "publisher": null,
+    "publication_year": null,
+    "description": "English-language public-domain catalogue record from Project Gutenberg. Catalogue ID: 357.",
+    "isbn": null,
+    "category": "History",
+    "shelf_location": null
+  },
+  {
+    "title": "The Scarlet Car",
+    "author": "Davis, Richard Harding, 1864-1916",
+    "publisher": null,
+    "publication_year": null,
+    "description": "English-language public-domain catalogue record from Project Gutenberg. Catalogue ID: 358.",
+    "isbn": null,
+    "category": "Fiction",
+    "shelf_location": null
+  },
+  {
+    "title": "Good Stories for Great Holidays\r\nArranged for Story-Telling and Reading Aloud and for the Children's Own Reading",
+    "author": "Olcott, Frances Jenkins, 1872-1963",
+    "publisher": null,
+    "publication_year": null,
+    "description": "English-language public-domain catalogue record from Project Gutenberg. Catalogue ID: 359.",
+    "isbn": null,
+    "category": "Literature",
+    "shelf_location": null
+  },
+  {
+    "title": "What is Property? An Inquiry into the Principle of Right and of Government",
+    "author": "Proudhon, P.-J. (Pierre-Joseph), 1809-1865",
+    "publisher": null,
+    "publication_year": null,
+    "description": "English-language public-domain catalogue record from Project Gutenberg. Catalogue ID: 360.",
+    "isbn": null,
+    "category": "Business and Economics",
+    "shelf_location": null
+  },
+  {
+    "title": "Miss Billy — Married",
+    "author": "Porter, Eleanor H. (Eleanor Hodgman), 1868-1920",
+    "publisher": null,
+    "publication_year": null,
+    "description": "English-language public-domain catalogue record from Project Gutenberg. Catalogue ID: 361.",
+    "isbn": null,
+    "category": "Fiction",
+    "shelf_location": null
+  },
+  {
+    "title": "Miss Billy's Decision",
+    "author": "Porter, Eleanor H. (Eleanor Hodgman), 1868-1920",
+    "publisher": null,
+    "publication_year": null,
+    "description": "English-language public-domain catalogue record from Project Gutenberg. Catalogue ID: 362.",
+    "isbn": null,
+    "category": "Fiction",
+    "shelf_location": null
+  },
+  {
+    "title": "The Oakdale Affair",
+    "author": "Burroughs, Edgar Rice, 1875-1950",
+    "publisher": null,
+    "publication_year": null,
+    "description": "English-language public-domain catalogue record from Project Gutenberg. Catalogue ID: 363.",
+    "isbn": null,
+    "category": "Fiction",
+    "shelf_location": null
+  },
+  {
+    "title": "The Mad King",
+    "author": "Burroughs, Edgar Rice, 1875-1950",
+    "publisher": null,
+    "publication_year": null,
+    "description": "English-language public-domain catalogue record from Project Gutenberg. Catalogue ID: 364.",
+    "isbn": null,
+    "category": "Fiction",
+    "shelf_location": null
+  },
+  {
+    "title": "The Land of Little Rain",
+    "author": "Austin, Mary, 1868-1934",
+    "publisher": null,
+    "publication_year": null,
+    "description": "English-language public-domain catalogue record from Project Gutenberg. Catalogue ID: 365.",
+    "isbn": null,
+    "category": "History",
+    "shelf_location": null
+  },
+  {
+    "title": "Bab: A Sub-Deb",
+    "author": "Rinehart, Mary Roberts, 1876-1958",
+    "publisher": null,
+    "publication_year": null,
+    "description": "English-language public-domain catalogue record from Project Gutenberg. Catalogue ID: 366.",
+    "isbn": null,
+    "category": "Fiction",
+    "shelf_location": null
+  },
+  {
+    "title": "The Country of the Pointed Firs",
+    "author": "Jewett, Sarah Orne, 1849-1909",
+    "publisher": null,
+    "publication_year": null,
+    "description": "English-language public-domain catalogue record from Project Gutenberg. Catalogue ID: 367.",
+    "isbn": null,
+    "category": "Fiction",
+    "shelf_location": null
+  },
+  {
+    "title": "Acres of Diamonds: Our Every-day Opportunities",
+    "author": "Conwell, Russell H., 1843-1925; Shackleton, Robert, 1860-1923 [Contributor]",
+    "publisher": null,
+    "publication_year": null,
+    "description": "English-language public-domain catalogue record from Project Gutenberg. Catalogue ID: 368.",
+    "isbn": null,
+    "category": "Literature",
+    "shelf_location": null
+  },
+  {
+    "title": "The outlaw of Torn",
+    "author": "Burroughs, Edgar Rice, 1875-1950",
+    "publisher": null,
+    "publication_year": null,
+    "description": "English-language public-domain catalogue record from Project Gutenberg. Catalogue ID: 369.",
+    "isbn": null,
+    "category": "History",
+    "shelf_location": null
+  },
+  {
+    "title": "The Fortunes and Misfortunes of the Famous Moll Flanders",
+    "author": "Defoe, Daniel, 1661?-1731",
+    "publisher": null,
+    "publication_year": null,
+    "description": "English-language public-domain catalogue record from Project Gutenberg. Catalogue ID: 370.",
+    "isbn": null,
+    "category": "Fiction",
+    "shelf_location": null
+  },
+  {
+    "title": "Literary Blunders: A Chapter in the \"History of Human Error\"",
+    "author": "Wheatley, Henry B. (Henry Benjamin), 1838-1917",
+    "publisher": null,
+    "publication_year": null,
+    "description": "English-language public-domain catalogue record from Project Gutenberg. Catalogue ID: 371.",
+    "isbn": null,
+    "category": "Literature",
+    "shelf_location": null
+  },
+  {
+    "title": "Prince Otto, a Romance",
+    "author": "Stevenson, Robert Louis, 1850-1894",
+    "publisher": null,
+    "publication_year": null,
+    "description": "English-language public-domain catalogue record from Project Gutenberg. Catalogue ID: 372.",
+    "isbn": null,
+    "category": "Fiction",
+    "shelf_location": null
+  },
+  {
+    "title": "Lay Morals, and Other Papers",
+    "author": "Stevenson, Robert Louis, 1850-1894; Stevenson, Fanny Van de Grift, 1840-1914 [Author of introduction, etc.]",
+    "publisher": null,
+    "publication_year": null,
+    "description": "English-language public-domain catalogue record from Project Gutenberg. Catalogue ID: 373.",
+    "isbn": null,
+    "category": "Literature",
+    "shelf_location": null
+  },
+  {
+    "title": "Fantastic Fables",
+    "author": "Bierce, Ambrose, 1842-1914?",
+    "publisher": null,
+    "publication_year": null,
+    "description": "English-language public-domain catalogue record from Project Gutenberg. Catalogue ID: 374.",
+    "isbn": null,
+    "category": "Literature",
+    "shelf_location": null
+  },
+  {
+    "title": "An Occurrence at Owl Creek Bridge",
+    "author": "Bierce, Ambrose, 1842-1914?",
+    "publisher": null,
+    "publication_year": null,
+    "description": "English-language public-domain catalogue record from Project Gutenberg. Catalogue ID: 375.",
+    "isbn": null,
+    "category": "History",
+    "shelf_location": null
+  },
+  {
+    "title": "A Journal of the Plague Year\r\nBeing Observations or Memorials of the Most Remarkable Occurrences, as Well Public as Private, Which Happened in London During the Last Great Visitation in 1665. Written by a Citizen Who Continued All the While in London",
+    "author": "Defoe, Daniel, 1661?-1731",
+    "publisher": null,
+    "publication_year": null,
+    "description": "English-language public-domain catalogue record from Project Gutenberg. Catalogue ID: 376.",
+    "isbn": null,
+    "category": "History",
+    "shelf_location": null
+  },
+  {
+    "title": "Kansas Women in Literature",
+    "author": "Barker, Nettie Garmer, 1882-1953",
+    "publisher": null,
+    "publication_year": null,
+    "description": "English-language public-domain catalogue record from Project Gutenberg. Catalogue ID: 377.",
+    "isbn": null,
+    "category": "Biography and Autobiography",
+    "shelf_location": null
+  },
+  {
+    "title": "The White Knight: Tirant Lo Blanc",
+    "author": "Martorell, Joanot, -1468; Galba, Martí Joan de, -1490; Rudder, Robert S. [Translator]",
+    "publisher": null,
+    "publication_year": null,
+    "description": "English-language public-domain catalogue record from Project Gutenberg. Catalogue ID: 378.",
+    "isbn": null,
+    "category": "Fiction",
+    "shelf_location": null
+  },
+  {
+    "title": "Worldly Ways & Byways",
+    "author": "Gregory, Eliot, 1854-1915",
+    "publisher": null,
+    "publication_year": null,
+    "description": "English-language public-domain catalogue record from Project Gutenberg. Catalogue ID: 379.",
+    "isbn": null,
+    "category": "Literature",
+    "shelf_location": null
+  },
+  {
+    "title": "Weir of Hermiston: An Unfinished Romance",
+    "author": "Stevenson, Robert Louis, 1850-1894",
+    "publisher": null,
+    "publication_year": null,
+    "description": "English-language public-domain catalogue record from Project Gutenberg. Catalogue ID: 380.",
+    "isbn": null,
+    "category": "Fiction",
+    "shelf_location": null
+  },
+  {
+    "title": "Memories and Portraits",
+    "author": "Stevenson, Robert Louis, 1850-1894",
+    "publisher": null,
+    "publication_year": null,
+    "description": "English-language public-domain catalogue record from Project Gutenberg. Catalogue ID: 381.",
+    "isbn": null,
+    "category": "Biography and Autobiography",
+    "shelf_location": null
+  },
+  {
+    "title": "Edinburgh: Picturesque Notes",
+    "author": "Stevenson, Robert Louis, 1850-1894",
+    "publisher": null,
+    "publication_year": null,
+    "description": "English-language public-domain catalogue record from Project Gutenberg. Catalogue ID: 382.",
+    "isbn": null,
+    "category": "Literature",
+    "shelf_location": null
+  },
+  {
+    "title": "She Stoops to Conquer; Or, The Mistakes of a Night: A Comedy",
+    "author": "Goldsmith, Oliver, 1730?-1774",
+    "publisher": null,
+    "publication_year": null,
+    "description": "English-language public-domain catalogue record from Project Gutenberg. Catalogue ID: 383.",
+    "isbn": null,
+    "category": "Literature",
+    "shelf_location": null
+  },
+  {
+    "title": "The Lost Prince",
+    "author": "Burnett, Frances Hodgson, 1849-1924",
+    "publisher": null,
+    "publication_year": null,
+    "description": "English-language public-domain catalogue record from Project Gutenberg. Catalogue ID: 384.",
+    "isbn": null,
+    "category": "Fiction",
+    "shelf_location": null
+  },
+  {
+    "title": "The Redheaded Outfield, and Other Baseball Stories",
+    "author": "Grey, Zane, 1872-1939",
+    "publisher": null,
+    "publication_year": null,
+    "description": "English-language public-domain catalogue record from Project Gutenberg. Catalogue ID: 385.",
+    "isbn": null,
+    "category": "Fiction",
+    "shelf_location": null
+  },
+  {
+    "title": "Virginibus Puerisque, and Other Papers",
+    "author": "Stevenson, Robert Louis, 1850-1894",
+    "publisher": null,
+    "publication_year": null,
+    "description": "English-language public-domain catalogue record from Project Gutenberg. Catalogue ID: 386.",
+    "isbn": null,
+    "category": "Literature",
+    "shelf_location": null
+  },
+  {
+    "title": "Vailima Letters\r\nBeing Correspondence Addressed by Robert Louis Stevenson to Sidney Colvin, November 1890-October 1894",
+    "author": "Stevenson, Robert Louis, 1850-1894",
+    "publisher": null,
+    "publication_year": null,
+    "description": "English-language public-domain catalogue record from Project Gutenberg. Catalogue ID: 387.",
+    "isbn": null,
+    "category": "Literature",
+    "shelf_location": null
+  },
+  {
+    "title": "The Crossing",
+    "author": "Churchill, Winston, 1871-1947",
+    "publisher": null,
+    "publication_year": null,
+    "description": "English-language public-domain catalogue record from Project Gutenberg. Catalogue ID: 388.",
+    "isbn": null,
+    "category": "History",
+    "shelf_location": null
+  }
+]

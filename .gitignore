@@ -1,5 +1,24 @@
-node_modules/
-.env
-npm-debug.log*
+# Other coursework and downloaded files
+Downloads/
+Downloads - Copy/
+
+# Personal files
+*.log
 .DS_Store
+
+# Private environment files
+.env
+.env.*
+!.env.example
+
+# Dependencies
+node_modules/
 coverage/
+# Local downloads
+Downloads/
+Downloads - Copy/
+
+# Large catalogue files and backups
+data/books-backup.json
+data/pg_catalog.csv
+pg_catalog.csv
